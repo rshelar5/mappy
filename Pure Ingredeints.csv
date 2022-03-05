@@ -1,0 +1,1287 @@
+sr_no,cas_no,name,haz_cls,un_id,class,pkg_grp,fp,lehs
+1,1119-34-2,L-Arginine HCl,NON-HAZMAT,NON-HAZMAT,,,,
+2,137-40-6,sodium propionate,Eye Irrit. 2,NON-HAZMAT,,,,-
+3,540-97-6,cyclohexasiloxane,NON-HAZMAT,NON-HAZMAT,,,,
+4,68037-01-4,Hydrogenated Polydecene,Asp. Tox. 1,NON-HAZMAT,,,219-257,LEHS3
+5,9003-39-8,PVP,NON-HAZMAT,NON-HAZMAT,,,,
+6,25133-97-5,Acrylates Copolymer,"Skin Irrit. 2,Eye Irrit. 2,Aquatic Chronic 4",NON-HAZMAT,,,,LEHS3
+7,67762-27-0,Cetostearyl alcohol,NON-HAZMAT,NON-HAZMAT,,,,
+8,107-88-0,Butylene Glycol,NON-HAZMAT,NON-HAZMAT,,,,
+9,107-21-1,Ethylene Glycol,"Acute Tox. 4,STOT RE 2",NON-HAZMAT,,,,-
+10,25322-68-3,Polyethylene Glycol,NON-HAZMAT,NON-HAZMAT,,,,
+11,142-72-3,Magnesium acetate,NON-HAZMAT,NON-HAZMAT,,,,
+12,144-55-8,sodium hydrogencarbonate,NON-HAZMAT,NON-HAZMAT,,,,
+13,61788-85-0,PEG-60 Hydrogenated Castor Oil,NON-HAZMAT,NON-HAZMAT,,,,
+14,9003-39-8,Polyvinylpyrrolidone,NON-HAZMAT,NON-HAZMAT,,,,
+15,7487-88-9,magnesium sulfate,NON-HAZMAT,NON-HAZMAT,,,,
+16,144-55-8,sodium bicarbonate,NON-HAZMAT,NON-HAZMAT,,,,
+17,7647-14-5,sodium chloride,NON-HAZMAT,NON-HAZMAT,,,,
+18,122-99-6,Phenoxyethanol,"Acute Tox. 4,Eye Irrit. 2",NON-HAZMAT,,,,-
+19,94349-62-9,Aloe Barbadensis Leaf Extract,NON-HAZMAT,NON-HAZMAT,,,,
+20,1309-37-1,"Iron Oxides (CI 77491, CI 77492, CI 77499)",Aquatic Chronic 2,3077 SOLID/3082 LIQUID,9,III,,LEHS3
+21,1308-38-9,Chromium Oxide Green ,NON-HAZMAT,NON-HAZMAT,,,,
+22,94-36-0,Benzoyl peroxide,"Org. Perox. Type B,Eye Irrit. 2,Skin Sens. 1,Aquatic Acute 1,Aquatic Chronic 1",3104,5.2,No packing group,,LEHS6
+23,10043-52-4,Calcium chloride,Eye Irrit. 2,NON-HAZMAT,,,,-
+24,67762-27-0,cetearyl alcohol,NON-HAZMAT,NON-HAZMAT,,,,
+25,67-71-0,Methylsulphonylmethane,"skin 2, Eye 2",NON-HAZMAT,,,,-
+26,128-37-0,Butylated hydroxytoluene,"Aquatic Acute 1,Aquatic Chronic 1",3077,9,III,,LEHS3
+27,6381-92-6,Disodium ethylenediaminetetraaceticÂ acid,"Acute Tox. 4,STOT Rep. Exp. 2",NON-HAZMAT,,,,-
+28,68515-73-1,Decyl Glucoside,Eye Damage 1,NON-HAZMAT,,,,LEHS3
+29,94349-62-9,Aloe Barbadensis Leaf JuiceÂ ,NON-HAZMAT,NON-HAZMAT,,,,
+30,70445-33-9,Ethylhexylglycerin,"Acute Tox. 4,Eye Damage 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+31,25322-68-3,PEG 400 ,NON-HAZMAT,NON-HAZMAT,,,,
+32,69-72-7,Salicylic acid,"Acute Tox. 4,Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+33,98-92-0,niacinamide,Eye Irrit. 2,NON-HAZMAT,,,,-
+34,61788-85-0,PEG-60 Hydrogenated castor oil,NON-HAZMAT,NON-HAZMAT,,,,
+35,64-19-7,Acetic acid,"Flam. Liq. 3,Skin Corr. 1A",2789,"8, 3",II,39,LEHS3
+36,420-16-6,acetonitrile; trifluoroborane,"Flam. Liq. 2,Acute toxicity, Oral (Category 4),Acute toxicity, Inhalation (Category 3),Skin corrosion (Category 1B)",2924,3 (8),II,10,LEHS6
+37,69-72-7,Salicylic acid,"Acute Tox. 4, Eye Damage 1",NON-HAZMAT,,,,LEHS3
+38,61789-40-0,cocamidopropyl betaine ,"Skin Irrit. 2,Eye Irrit. 2,Skin Sens. 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+40,50-01-1,Guanidinium chloride,"Acute Tox. oral 4,Acute Tox. Inh 4,Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,-
+41,7487-88-9,Magnesium sulphate,Skin Sens. 1,NON-HAZMAT,,,,-
+42,7558-79-4,Sodium phosphate dibasic,NON-HAZMAT,NON-HAZMAT,,,,
+43,142-72-3,Magnesium di(acetate),NON-HAZMAT,NON-HAZMAT,,,,
+44,7558-79-4,Disodium hydrogenorthophosphate,NON-HAZMAT,NON-HAZMAT,,,,
+45,7722-84-1,Hydrogen peroxide,"Oxid. Liquid 1,Acute Tox.oral 4,Acute Tox inh. 4,Skin Corr. 1A,Eye Damage 1,STOT Single Exp. 3,Aquatic Chronic 3",2014,5.1,II,,LEHS3
+46,7758-99-8,Copper sulphate,"Acute Tox. 4,Skin Irrit. 2,Eye Irrit. 2,Aquatic Acute 1,Aquatic Chronic 1",3077 SOLID/3082 LIQUID,9,III,,LEHS3
+47,68515-73-1,Decyl Glucoside,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+48,420-16-6,acetonitrile; trifluoroborane,"Flam. Liq. 2,Acute Tox. 4,Skin Corr. 1B",2924,3 (8),II,10,LEHS3
+49,120-51-4,Benzyl benzoate,"Acute Tox. 4, Aquatic Chronic 2",3077(S)/3082(L),9,III,148,-
+50,98-92-0,Nicotinamide,Eye Irrit. 2,NON-HAZMAT,,,,-
+51,1309-37-1,CI77491,Aquatic Chronic 1,9el/9es,9,III,,LEHS3
+52,1305-62-0,Calcium Hydroxide,"Skin Irrit. 2, Eye Dam. 1, STOT SE 3",NON-HAZMAT,,,,LEHS3
+53,67-71-0,MSM,"Skin Irrit. 2, Eye Irrit. 2",NON-HAZMAT,,,,-
+54,70445-33-9,Ethylhexylglycerin,"Eye Dam. 1, Aquatic Chronic 3",NON-HAZMAT,,,,
+55,61789-40-0,Cocamidopropyl Betaine,"Skin Irrit. 2, Skin Sens. 1, Eye Irrit. 2, Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+56,120-51-4,Benzyl benzoate,"Acute Tox. 4, Aquatic Chronic 2",9el/9es,9,III,148Â Â°C,LEHS3
+57,6381-92-6,Disodium dihydrogen ethylenediaminetetraacetate,"Acute Tox. 4,STOT Rep. Exp. 2",NON-HAZMAT,,,,-
+58,107-22-2,Glyoxal,"Acute Tox. 4,Skin Irrit. 2,Eye Irrit. 2,Skin Sens. 1,Muta. 2,STOT Single Exp. 3",NON-HAZMAT,,,,LEHS6
+59,50-01-1,Guanidinium chloride,"Acute Tox. 4,    Acute Tox. 4,Skin Irrit. 2,    Eye Irrit. 2,",NON-HAZMAT,,,,-
+60,1308-38-9,Chromium (III) oxide,"H312+H332: Harmful in contact with skin or if inhaled.
+H315: Causes skin irritation.
+H319: Causes serious eye irritation.
+H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled.
+H317: May cause an allergic skin reaction.
+H340: May cause genetic defects <state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard>.
+H350: May cause cancer <state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard>.
+H335: May cause respiratory irritation.
+H373: May cause damage to organs <or state all organs affected, if known> through prolonged or repeated exposure <state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard>.
+H411: Toxic to aquatic life with long lasting effects.",9el/9es,9,III,,LEHS6
+61,77-92-9,Citric acid,Eye Irrit. 2,NON-HAZMAT,,,345Â Â°C,-
+62,64-17-5,ethanol,"Eye Irrit. 2,Flam. Liq. 2",1170,3,II,12.8,LEHS3
+63,67-56-1,Methanol,"Flam. Liq. 2,Acute Tox. Oral 3,Acute Tox. Dermal 3,Acute Tox. Inhl 3,STOT SE 1",1230,3 (6.1),II,12,LEHS6
+64,2682-20-4,2-Methyl-3(2H)-isothiazolone,"Acute Tox. Oral 3,Acute Tox. Dermal 3,Skin Corr. 1,Eye Dam. 1,Skin Sens. 1A,STOT SE 3,Aq. Acute 1,Aq. Chronic 2",3261(S)/3265(L),8,II,,LEHS6
+65,100037-69-2,"1,4-Piperazinediethanesulfonic acid, sodium salt (2:3)",NON-HAZMAT,NON-HAZMAT,,,,
+66,10028-24-7,Sodium phosphate dibasic dihydrate,NON-HAZMAT,NON-HAZMAT,,,,
+67,10034-88-5,Sodium Bisulfate,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+68,10034-99-8,"Sulfuric acid, magnesium salt, hydrate (1:1:7)",NON-HAZMAT,NON-HAZMAT,,,,
+69,10035-04-8,Calcium chloride,Eye Irrit. 2,NON-HAZMAT,,,,-
+70,10039-32-4,Disodium phosphate dodecahydrate Â ,NON-HAZMAT,NON-HAZMAT,,,,
+71,100-42-5,styrene,"Flam. Liquid 3,Acute Tox. Inhl 4,Skin Irrit. 2,Eye Irrit. 2,Repr. 2,STOT RE 1",2055,3,III,31Â  ,LEHS6
+72,10043-35-3,Boric acid,Repr. 1B,NON-HAZMAT,,,,LEHS6
+73,100-43-6,4-vinylpyridine,"Flam. Liquid 3,Acute Tox. Oral 3,Acute Tox. Dermal 3,Acute Tox. Inhl 3,Skin Corr. 1B,Eye Dam. 1,Skin Sens. 1,Aq. Chronic 2",3073,6.1,II,51.67,LEHS6
+74,10049-21-5,Sodium phosphate monobasic monohydrate,NON-HAZMAT,NON-HAZMAT,,,,
+75,10101-89-0,"Sodium Phosphate Tribasic, Dodecahydrate","Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,
+76,10101-97-0,Nickel sulfate hexahydrate,"Acute Tox. Oral 3,Skin Sens. 1,Resp. Sens. 1,Carc. 1,Aq. Acute 1",3077,9,III,,LEHS6
+77,10102-18-8,sodium selenite,"Acute Tox. Oral 2,Skin Sens. 1,Acute Tox. Inhl 3,Aq. Chronic 2",2630,6.1,I,,LEHS6
+78,10102-40-6,sodium molybdate,NON-HAZMAT,NON-HAZMAT,,,,
+79,10199-89-0,"4-chloro-7-nitrobenz-2-Â oxa-1,3-diazole (NBD chloride; 4-chloro-7-nitrobenzofurazan)Â  *FluoroPureâ„¢ grade*",NON-HAZMAT,NON-HAZMAT,,,,
+80,102-71-6,Triethanolamine,NON-HAZMAT,NON-HAZMAT,,,,
+81,102783-51-7,2?-Deoxycytidine 5?-triphosphate disodium salt,NON-HAZMAT,NON-HAZMAT,,,,
+82,102925-54-2,"Proteinase K, tritirachium","Skin Irrit. 2,Eye Irrit. 2,Resp. Sens. 1",NON-HAZMAT,,,,-
+83,103-45-7,Phenethyl acetate,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+84,103476-89-7,Leupeptin hemisulfate salt,NON-HAZMAT,NON-HAZMAT,,,,
+85,103-84-4,ACETANILIDE,Acute Tox. Oral 4,NON-HAZMAT,,,,-
+86,10450-60-9,orthoperiodic acid,"Oxid. Liq. 1,Eye Irrit. 2,Skin Corr. 1 ,Acute Tox. Inhl 2",3085,5.1 (8),I,,LEHS6
+87,104-92-7,4-bromoanisole,"Acute Tox. Oral 4,Skin Irrit. 2",NON-HAZMAT,,,,-
+88,1066-33-7,ammonium hydrogencarbonate,Acute Tox. Oral 4,NON-HAZMAT,,,,-
+89,1069-66-5,sodium valproate,"Acute Tox. Oral 4,Reproductive.tox.4",NON-HAZMAT,,,,LEHS6
+90,107-43-7,betaine,NON-HAZMAT,NON-HAZMAT,,,,
+91,108321-42-2,G418 Disulfate,NON-HAZMAT,NON-HAZMAT,,,,
+92,108-95-2,Phenol,"Muta. 2,Acute Tox. Oral 3,Acute Tox. Dermal 3,Acute Tox. Inhl 3,Skin Corr. 1B,STOT RE 2,Aq. Chronic 2","2312(Phenol at temperatures above melting point (>40,9 Â°C)),1671(Phenol at temperatures below melting point (<40,9 Â°C))",6.1,II,,LEHS6
+93,11006-33-0,Phleomycin,Acute Tox. Oral 4,NON-HAZMAT,,,,-
+94,110-15-6,Succinic acid,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+95,110-16-7,Maleic acid,"Acute Tox. Oral 4,Skin Irrit. 2,Eye Irrit. 2,Skin Sensi. 1,STOT SE 3",NON-HAZMAT,,,,-
+96,110-18-9,"N,N,N',N'-tetramethylethylenediamine","Flam. Liq. 2,Acute Tox. Oral 4,Skin Corr. 1B,Acute Tox. Inhl 4",2372,3,II,19Â  ,LEHS3
+97,110231-30-6,diphenyl-1-pyrenylphosphine,NON-HAZMAT,NON-HAZMAT,,,,
+98,11024-24-1,digitonin,NON-HAZMAT,NON-HAZMAT,,,,
+99,110-26-9,"N,N-methylene-bis-acrylamide",Harmful if swallowed,NON-HAZMAT,,,,-
+100,11061-68-0,Insuline,NON-HAZMAT,NON-HAZMAT,,,,
+101,11070-73-8,"Insulin, from bovine pancreas",NON-HAZMAT,NON-HAZMAT,,,,
+102,111-30-8,Glutaraldehyde,"Acute Tox. Oral 4,Skin Corr. 1B,Skin Sens. 1A,Acute Tox. Inhl 2,STOT SE 3,Resp. Sens. 1,Aq. Acute 1,Aq. Chronic 2",1760,8,II,,LEHS6
+103,1119-97-7,Tetradonium bromide (Cetrimide),"Acute Tox. Oral 4,Skin Irrit. 2,Eye Dam. 1,STOT SE 3,STOT RE 2,Aq. Acute 1,Skin Corr. 1B",1759,8,III,,LEHS3
+104,1120-01-0,sodium hexadecyl sulphate ,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+105,112-80-1,Oleic acid,"Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,-
+106,113-24-6,"Sodium pyruvate
+Propanoic acid, 2-oxo-, sodium salt","Skin Sens. 1B,Eye Irrit. 2",NON-HAZMAT,,,,-
+107,1132-61-2,4-Morpholinepropanesulfonic acid ,NON-HAZMAT,NON-HAZMAT,,,,
+108,114162-64-0,"5-BROMO-4-CHLORO-3-INDOLYL ?-D-GLUCURONIDE, CYCLOHEXYLAMMONIUM SALT ",NON-HAZMAT,NON-HAZMAT,,,,
+109,115-39-9,tetrabromophenol blue,"Eye Irrit. 2,Acute Tox. 4-SKIN,Acute Tox. 4-INHL",NON-HAZMAT,,,,-
+110,1185-53-1,"2-amino-2-(hydroxymethyl)propane-1,3-diol hydrochloride",NON-HAZMAT,NON-HAZMAT,,,,
+111,119171-73-2,amplex red reagent,Acute Tox. Oral 4,NON-HAZMAT,,,,-
+112,1200-22-2,Lipoic acid,NON-HAZMAT,NON-HAZMAT,,,,
+113,12054-85-2,AMMONIUM MOLYBDATE,NON-HAZMAT,NON-HAZMAT,,,,
+114,12055-23-1,hafnium dioxide,NON-HAZMAT,NON-HAZMAT,,,,
+115,123-51-3,"Iso amyl alcohol
+(3-methylbutan-1-ol)","Flam. Liquid 3,Skin Irrit. 2,Eye Irrit. 2,Acute Tox. Inhl 4,STOT SE 3",1105,3,III,43.5Â  ,LEHS3
+116,1239-45-8,ETHIDIUM BROMIDE,"Acute Tox. Oral 4,Acute Tox. Inhl 2,Muta. 2 ",Â 2811,6.1,I,,LEHS6
+117,124-18-5,Decane,"Flam. Liquid 3,Asp. Tox. 1",2247,Â 3,III,57.4,LEHS3
+118,124-20-9,Spermidine,"Skin Corr. 1,Eye Dam. 1",2735,8,II,,LEHS3
+119,124-63-0,(METHANESULFONYL CHLORIDE (MES)  ,"Acute Tox. Oral 3,Acute Tox. Inhl.2,Acute Tox. Derm.4,Skin corrosion 1B,STOT-SE.3",3246,6.1 (8),I,,LEHS6
+120,124762-51-5,BIS-TRIS HCL,NON-HAZMAT,NON-HAZMAT,,,,
+121,127-08-2,Potassium acetate,NON-HAZMAT,NON-HAZMAT,,,,
+122,127087-87-0,"4-Nonylphenol, branched, ethoxylated","Acute Tox. Oral 4,Eye Irrit. 2,Aq. Chronic 3",NON-HAZMAT,,,,LEHS3
+123,127-09-3,sodium acetate,NON-HAZMAT,NON-HAZMAT,,,,
+124,128446-35-5,"?-Cyclodextrin, 2-hydroxypropyl ethers","Skin Cat 2,Eye Cat1,STOT SE cat 3(resp)",NON-HAZMAT,,,,LEHS3
+125,1310-58-3,Potassium hydroxide,"Met. Corr. 1,Acute Tox. Oral 4,Skin corr . 1A,Eye Irrit. 2",1813 for solid/1814 for liquid,8,II,,LEHS3
+126,1310-73-2,sodium hydroxide,"Met. Corr. 1,Skin Corr. 1,Skin Irrit. 2,Eye Irrit. 2",1823 for solid/1824 for liquid,8,II,,LEHS3
+127,1314-23-4,zirconium dioxide,NON-HAZMAT,NON-HAZMAT,,,,
+128,1314-36-9,yttrium oxide,NON-HAZMAT,NON-HAZMAT,,,,
+129,1317-61-9,Ferric oxide black,Self-heating in large quantities; may catch fire,1376,4.2,,,LEHS6
+130,132778-08-6,"D-Glucopyranose, oligomeric, C9-11-alkyl glycosides","Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,-
+131,134-03-2,sodium ascorbate,NON-HAZMAT,NON-HAZMAT,,,,
+132,1344-09-8,"Silicic acid, sodium salt","Corrosive to metals (Category 1),Skin corrosion (Category 1A),Specific target organ toxicity - single exposure (Category 3)",3266,8,III,,LEHS3
+133,1344-28-1,aluminium oxide,NON-HAZMAT,NON-HAZMAT,,,,
+134,13446-34-9,"Manganese chloride (MnCl2), tetrahydrate","Acute Tox. 4.ORAL,Aquatic Chronic 2",3077,9,III,,LEHS3
+135,13463-67-7,TITANIUM DIOXIDE,"
+Carc. 2",NON-HAZMAT,,,,LEHS6
+136,13472-35-0,sodium dihydrogen phosphate dihydrateÂ ,"Skin Irrit. 3,Eye Irrit. 2",NON-HAZMAT,,,,-
+137,13472-36-1,"sodium pyrophosphate,  decahydrate (diphosphoric acid, tetrasodium salt, decahydrate)","Skin Irrit. 2,Eye Irrit. 2,STOT SE 3",NON-HAZMAT,,,,
+138,13477-34-4,Calcium nitrate tetrahydrate,"Oxid. Liq. 3,Eye Irrit. 2,Skin Irrit. 3",1454Â ,5.1,III,,LEHS3
+139,13517-24-3,SODIUM METASILICATE NONAHYDRATE,"Met. Corr. 1,Skin Corr. 1B ,STOT SE 3",3253,8,III,,LEHS3
+140,13537-18-3,thulium trichloride,"Skin Irrit. 2,Eye Irrit. 2,STOT SE 3",NON-HAZMAT,,,,-
+141,135884-31-0,N-Boc-2-pyrroleboronic acid,"Skin Irrit. 2,Eye Irrit. 2,STOT SE 3",NON-HAZMAT,,,,-
+142,137-16-6,N-Lauroyl Sarcosine,"Acute Tox. Inhl 2,Skin Irrit. 2,Eye Dam. 1",2811,6.1,II,,LEHS6
+143,13721-39-6,Sodium orthovanadate,"Acute Tox. 4-ORAL,Acute Tox. 4-DERMAL,Acute Tox. 4-INHAL",NON-HAZMAT,,,,-
+144,139-33-3,disodium dihydrogen ethylenediaminetetraacetate,"STOT RE 2,Acute Tox. 4",NON-HAZMAT,,,,
+145,1397-89-3,Amphotericin B,"Skin Irrit. 2,Eye Irrit. 2,STOT SE 3",NON-HAZMAT,,,,-
+146,1405-10-3,"Neomycin, sulfate (salt)","Repr. 2,Aquatic Chronic 3,Skin Sens. 1,Resp. Sens. 1",NON-HAZMAT,,,,LEHS3
+147, 7651-02-7,Stearamidopropyl Dimethylamine,"Eye Dam. 1,Aquatic Acute 1,Aquatic Chronic 2",3077,9,III,,LEHS3
+148,127-51-5,alpha-isomethyl ionone,Aquatic Chronic 2,3077 SOLID/3082 LIQUID,9,III,,LEHS3
+149,112-02-7,Cetrimonium chloride,"Acute Tox. 3,Skin Corr. 1C,Aquatic Acute 1,Aquatic Chronic 1,Acute Tox. 4,Eye Dam. 1",2922,8(6.1),III,,LEHS6
+150,67-63-0,Isopropyl Alcohol,"Flam. Liq. 2,Eye Irrit. 2,STOT SE 3",1219,3,II,,LEHS3
+151,556-67-2,Cyclotetrasiloxane,"Flam. Liq. 3,Repr. 2,Aquatic Chronic 2",1993,3,III,,LEHS6
+152,141-78-6,Ethyl Acetate,"Flam. Liq. 2,Eye Irrit. 2,STOT SE 3",1173,3,II,,LEHS3
+153,79-20-9,Methyl Acetate,"Flam. Liq. 2,Eye Irrit. 2 ,STOT SE 3",1231,3,II,,LEHS3
+154,67-64-1,Acetone,"Flam. Liq. 2,Eye Irrit. 2 ,STOT SE 3",1090,3,II,MINUS 16 ,LEHS3
+155,79-14-1,Glycolic acid,"Skin Corr. 1B,Repr. 1B,Eye Dam. 1,Acute Tox. 4",3261,8,II,,LEHS3
+156,50-21-5,Lactic acid,"Skin Irrit. 2,Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+157,124-43-6,Carbamide Peroxide,"Oxidising solid, Category 3,Skin irritation, Category 2,Serious eye damage, Category 1,Specific target organ toxicity - single exposure, Category 3",1511,5.1 (8),III,,LEHS3
+158, 7664-93-9,Sulphuric acid,Skin Corr. 1A,1830Â ,8,II,,LEHS3
+159,7697-37-2,Nitric acid,"Ox. Liq. 2,Skin Corr. 1A",2031,8(5.1),I,,LEHS3
+160,71-23-8,1-propanol,"Flam. Liq. 2,Eye Dam. 1,STOT SE 3",1274,3,II,,LEHS3
+161,31807-55-3,Isododecane,"Flam. Liq. 3,Asp. Tox. 1",2286,3,III,,LEHS3
+162,112-53-8,Lauryl Alcohol,"Eye Irrit. 2,Aquatic Acute 1,Aquatic Chronic 2",3077,9,III,,LEHS3
+163,25087-34-7,BUTENE POLYMER,NON-HAZMAT,NON-HAZMAT,,,,
+164,9003-29-6,Polybutene,"Asp. Tox. 1,Flam. Liq. 2,Aquatic Chronic 4,Skin Irrit. 2",1993,3,II,,LEHS3
+165,68937-10-0,HYDROGENATED POLYISOBUTENE,NON-HAZMAT,NON-HAZMAT,,,,
+166,9003-27-4, POLYISOBUTENE,Aquatic Chronic 4,NON-HAZMAT,,,,LEHS3
+167,98-83-9,Methylstyrene,"Flam. Liq. 3,Eye Irrit. 2,STOT SE 3,Aquatic Chronic 2",2303,3,III,,LEHS3
+168,95-13-6,Indene,"Asp. Tox. 1,Flam. Liq. 3 ",3295,3,III,,LEHS3
+169,32440-50-9,HEXADECENE COPOLYMER,NON-HAZMAT,NON-HAZMAT,,,,
+170,9005-00-9,Steareth-20/21/50,Aquatic Chronic 2,3077 SOLID/3082 LIQUID,9,III,,LEHS3
+171,110-82-7,C10-30 Alkyl Acrylate,"Flam. Liq. 2,Asp. Tox. 1,Skin Irrit. 2,STOT SE 3,Aquatic Acute 1",1145,3,II,,LEHS3
+172, 9003-03-6,Ammonium Polyacrylate,"Eye Irrit. 2,Aquatic Chronic 3,Skin Irrit. 2,STOT SE 3",NON-HAZMAT,,,,LEHS3
+173,25038-32-8,Hydrogenated Styrene/Isoprene Copolymer,Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+174,9010-88-2,Ethylene/Methacrylate Copolymer ,"Acute Tox. 4,Acute Tox. 4",NON-HAZMAT,,,,-
+175, 9003-01-4,Polyacrylic acid,"Acute Tox. 4,Eye Dam. 1,STOT SE 3,Aquatic Acute 1,Aquatic Chronic 2",3082,9,III,,LEHS3
+176,66070-58-4,Hydrogenated Styrene/Butadiene Copolymer,"Aquatic Chronic 4,Acute Tox. 4",NON-HAZMAT,,,,LEHS3
+177,2116-84-9,Phenyl Trimethicone,NON-HAZMAT,NON-HAZMAT,,,,
+178,17928-28-8,Methyl Trimethicone,Flam. Liq. 3,1993,3,III,,LEHS3
+179,112-92-5,Stearyl Alcohol,NON-HAZMAT,NON-HAZMAT,,,,
+180,143-28-2,Oleyl Alcohol,NON-HAZMAT,NON-HAZMAT,,,,
+181,661-19-8,Behenyl alcohol,Harmful to aquatic life with long lasting effects,NON-HAZMAT,,,,LEHS3
+182,9002-89-5,Polyvinyl alcohol,STOT SE 2,NON-HAZMAT,,,,LEHS6
+183,5333-42-6 2,Octyldodecanol,NON-HAZMAT,NON-HAZMAT ,,,,
+184,112-72-1,Myristyl Alcohol,"Eye Irrit. 2,Aquatic Chronic 1",3077,9,III,,LEHS3
+185,57-55-6,Propylene glycol,NON-HAZMAT,NON-HAZMAT,,,,
+186,107-41-5,Hexylene Glycol,"Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,-
+187,111-90-0,Ethoxydiglycol(2-(2-Ethoxyethoxy)ethanol),NON-HAZMAT,NON-HAZMAT,,,,
+188,25265-71-8,Dipropylene Glycol,NON-HAZMAT,NON-HAZMAT,,,,-
+189,124-68-5,Aminomethyl Propanol,"Skin Irrit. 2,Eye Irrit. 2,Aquatic Chronic 3",NA 1993 (COMBUSTIBLE),,,82.1,LEHS3
+190,7631-86-9,Silica,NON-HAZMAT,NON-HAZMAT,,,,
+191,9006-65-9,Dimethicone,Eye Irrit. 2,NON-HAZMAT,,,,-
+192,31692-79-2,Dimethiconol,Aquatic Chronic 2,3077 SOLID/3082 LIQUID,,,,LEHS3
+193,29806-73-3,Ethylhexyl Palmitate,NON-HAZMAT,NON-HAZMAT,,,,
+194,68554-70-1,Polymethysilsesquioxane*,Eye Irrit. 2,NON-HAZMAT,,,,-
+195,99-76-3,Methylparaben,Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+196, 4247-02-3,ISOBUTYLPARABEN,Skin Sens. 1B,NON-HAZMAT,,,,-
+197,94-26-8,BUTYLPARABEN,"Skin Irrit. 2,Eye Dam. 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+198,120-47-8,ETHYLPARABEN,NON-HAZMAT,NON-HAZMAT,,,,
+199,94-13-3,Propylparaben ,NON-HAZMAT,NON-HAZMAT,,,,
+200, 6132-04-3,Sodium Citrate,NON-HAZMAT,NON-HAZMAT,,,,
+201,77-94-1,Tributyl Citrate,NON-HAZMAT,NON-HAZMAT,,,,
+202,77-93-0,Triethyl Citrate,NON-HAZMAT,NON-HAZMAT,,,,
+203,1405-20-5,"Polymyxin B sulfate, Polymyxin B, sulfate (salt)","Acute Tox. Oral 4,Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,-
+204,1405-41-0,Gentamicin Sulfate,"Skin Sens. 1,Resp. Sens. 1",NON-HAZMAT,,,,-
+205,142-47-2,L-Glutamic acid monosodium salt hydrate,NON-HAZMAT,NON-HAZMAT,,,,
+206,142-82-5,Heptane,"Flam. Liq. 2,Skin Irrit. 2,Asp. Tox. 1,STOT SE 3,Aq. Chronic 1,Aq. Acute 1",1206,3,II,,LEHS3
+207,147-85-3,L-Proline,NON-HAZMAT,NON-HAZMAT,,,,
+208,1483-01-8,L-Homoarginine hydrochloride,NON-HAZMAT,NON-HAZMAT,,,,
+209,150-13-0,4-aminobenzoic acid,Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+210,150-25-4,"N,N-bis(2-hydroxyethyl)glycine",NON-HAZMAT,NON-HAZMAT,,,,
+211,151-21-3,sodium dodecyl sulphate ,"Flam. Sol. 2,Acute Tox. 4,Skin Irrit. 2,Eye Dam. 1,Acute Tox. 4,STOT SE 3,Aquatic Chronic 3",3178,4.1,II,,LEHS3
+212,73398-61-5,Capric triglyceride,NON-HAZMAT,NON-HAZMAT,,,,
+213,1302-78-9,Bentonite,NON-HAZMAT,NON-HAZMAT,,,,
+214,1332-58-7,Kaolin,NON-HAZMAT,NON-HAZMAT,,,,
+215,56-81-5,Glycerin,NON-HAZMAT,NON-HAZMAT,,,,
+216,7704-34-9,sulfur,NON-HAZMAT,NON-HAZMAT,,,,
+217,61791-12-6,polyethoxylated castor oil,NON-HAZMAT,NON-HAZMAT,,,,
+218,24634-61-5,Potassium sorbate,NON-HAZMAT,NON-HAZMAT,,,,
+219,79-81-2,vitamin A palmitate,NON-HAZMAT,NON-HAZMAT,,,,
+220,7235-40-7,Beta-carotene,"Self-heat. 2,Eye Irrit. 2",3313,4.2,II,,LEHS6
+221,9050-36-6,Maltodextrin,NON-HAZMAT,NON-HAZMAT,,,,
+222,118-56-9,homosalate,NON-HAZMAT,NON-HAZMAT,,,,
+223,61789-32-0,sodium cocoyl isethionate ,"eye dam 2,Aquatic chr. 3",NON-HAZMAT,,,,LEHS3
+224,57-11-4,stearic acid,NON-HAZMAT,NON-HAZMAT,,,,
+225,627-83-8,Glycol distearate,NON-HAZMAT,NON-HAZMAT,,,,
+226,63089-85-0,peg-40 sorbitan peroleate,NON-HAZMAT,NON-HAZMAT,,,,
+227,8001-23-8,safflower seed oil,NON-HAZMAT,NON-HAZMAT,,,,
+228,9067-32-7,Sodium Hyaluronate,NON-HAZMAT,NON-HAZMAT,,,,
+229,8016-96-4,vetiveria zizanioides oil,"Skin Irrit. 2,Skin Sens. 1,eye dam 2",NON-HAZMAT,,,,-
+230,7772-98-7,Sodium thiosulfate anhydrous,NON-HAZMAT,NON-HAZMAT,,,,
+231,93685-80-4,ISOHEXADECANE,NON-HAZMAT,NON-HAZMAT,,,,
+232,110-27-0,Isopropyl Myristate,NON-HAZMAT,NON-HAZMAT,,,,
+233,87-99-0,Xylitol,NON-HAZMAT,NON-HAZMAT,,,,
+234,118-60-5,Octisalate,NON-HAZMAT,NON-HAZMAT,,,,
+235,1314-13-2,Zinc Oxide,"Aquatic Acute 1,Aquatic Chronic 1",3077,9,III,,LEHS3
+236,50-70-4,Sorbitol,NON-HAZMAT,NON-HAZMAT,,,,
+237,1415-93-6,humic acid,NON-HAZMAT,NON-HAZMAT,,,,
+238,36653-82-4,Cetyl Alcohol,"Eye Irrit. 2,Aquatic Chronic 2",3077 SOLID/3082 LIQUID,9,III,,LEHS3
+239,8002-74-2,Paraffin,NON-HAZMAT,NON-HAZMAT,,,,
+240,85666-92-8,Glyceryl Stearate,NON-HAZMAT,NON-HAZMAT,,,,
+241,541-02-6,Cyclopentasiloxane,NON-HAZMAT,NON-HAZMAT,,,,
+242,70356-09-1,Avobenzone,Aq chr 4  ,NON-HAZMAT,,,,LEHS3
+243,5466-77-3,octinoxate,NON-HAZMAT,NON-HAZMAT,,,,
+244,6197-30-4,octocrylene,NON-HAZMAT,NON-HAZMAT,,,,
+245,15471-17-7,1-(3-sulphonatopropyl)pyridinium,NON-HAZMAT,NON-HAZMAT,,,,
+246,156571-46-9,N-(2-(1-Maleimidyl)ethyl)-7-(diethylamino)coumarin-3-carboxamide,NON-HAZMAT,NON-HAZMAT,,,,
+247,1609-47-8,Diethyl pyrocarbonate,"Acute Tox. 4,Skin Irrit. 2,Eye Irrit. 2,STOT SE 3",NA 1993 (COMBUSTIBLE),3,III,69,-
+248,162112-35-8,N-(3-Triethylammoniopropyl)-4-(6-(4-(diethylamino)phenyl) hexatrienyl)pyridinium dibromide,NON-HAZMAT,NON-HAZMAT,,,,
+249,111937-03-2,CETEARYL ISONONANOATE,NON-HAZMAT,NON-HAZMAT,,,,
+250,81-13-0,Panthenol,NON-HAZMAT,NON-HAZMAT,,,,
+251,6915-15-7,Malic acid,Eye Irrit. 2,NON-HAZMAT,,,,-
+252,557-05-1,Zinc stearate,Aquatic Acute 1,3077 SOLID/3082 LIQUID,9,III,,LEHS3
+253,61789-91-1,Simmondsia Chinensis (Jojoba) Seed Oil,NON-HAZMAT,NON-HAZMAT,,,,
+254,8001-21-6,Helianthus Annuus (Sunflower) Seed Oil,NON-HAZMAT,NON-HAZMAT,,,,
+255,8001-25-0,Olea Europaea (Olive) Fruit Oil,NON-HAZMAT,NON-HAZMAT,,,,
+256,129811-19-4,Macadamia integrifolia/macadamia tetraphylla oil,NON-HAZMAT,NON-HAZMAT,,,,
+257,128497-20-1,Macadamia ternifolia seed extract,NON-HAZMAT,NON-HAZMAT,,,,
+258,90045-98-0,Simmondsia Chinensis (jojoba) Seed Oil,NON-HAZMAT,NON-HAZMAT,,,,
+259,84604-14-8,Rosemarinus Officinalis (rosemary) Extract,"Flam. Liquid 3,Skin Irrit. 2,
+Eye Irrit. 2,
+Skin Sens. 1B,
+Asp. Tox. 1,STOT Single Exp. 2,
+Aquatic Chronic 2",1169,3,III,,LEHS6
+260,8007-69-0,Prunus Amygdalus Dulcis (Sweet Almond) Oil,NON-HAZMAT,NON-HAZMAT,,,,
+261,68334-28-1,Hydrogenated Vegetable Oil,NON-HAZMAT,NON-HAZMAT,,,,
+262, 8009-03-8,White Petrolatum,Carc. 1B,NON-HAZMAT,,,,LEHS6
+263,8042-47-5,Mineral oil,Asp. Tox. 1,NON-HAZMAT,,,,LEHS3
+264,8012-95-1,Paraffinum liquidum,"Asp. Tox. 1,Aquatic Chronic 4",NON-HAZMAT,,,,LEHS3
+265, 129499-78-1,Ascorbyl Glucoside,NON-HAZMAT,NON-HAZMAT,,,,
+266,68239-42-9,Methyl Gluceth-20,NON-HAZMAT,NON-HAZMAT,,,,
+267,6138-23-4,Trehalose,NON-HAZMAT,NON-HAZMAT,,,,
+268,57-10-3,Palmitic Acid,NON-HAZMAT,NON-HAZMAT,,,,
+269,7787-59-9,Bismuth Oxychloride (CI 77163),NON-HAZMAT,NON-HAZMAT,,,,
+270,10101-66-3,Manganese Violet (CI 77742),NON-HAZMAT,NON-HAZMAT,,,,
+271,12001-26-2,Mica ,"Skin Irr 2,Eye Irritation 2,Carc 1,STOT RE 1",NON-HAZMAT,,,,LEHS6
+272,9005-25-8,Corn Starch Modified,NON-HAZMAT,NON-HAZMAT,,,,
+273,532-32-1,Sodium Benzonate,Eye Irrit. 2,NON-HAZMAT,,,,-
+274,17496-08-1,Ammonium propionate,NON-HAZMAT,NON-HAZMAT,,,,
+275,9004-39-1,cellulose acetate propionate,NON-HAZMAT,NON-HAZMAT,,,,
+276,57-85-2,Testosterone Propionate,"Acute toxicity Oral 4, Carc 1, Repr tox 2, ",NON-HAZMAT,,,,LEHS6
+277,10191-41-0,Vitamin e,Skin Sens. 1B,NON-HAZMAT,,,,-
+278,50-81-7,Vitamin c,NON-HAZMAT,NON-HAZMAT,,,,
+279,14807-96-6,Talc,NON-HAZMAT,NON-HAZMAT,,,,
+280,58-85-5,Biotin,NON-HAZMAT,NON-HAZMAT,NON-HAZMAT,,,
+281,7440-70-2,Calcium,Water React. Flam. Gas 2,1401,4.3,II,,LEHS6
+282,123-31-9,Hydroquinone,"Acute Tox. 4,Eye Damage 1,Skin Sens. 1B,Muta. 2,Carc. 2,Aquatic Acute 1,Aquatic Chronic 1",3077,9,III,,LEHS6
+283,17661-50-6,CETYL ESTERS,NON-HAZMAT,NON-HAZMAT,,,,
+284,5117-19-1,PEG-8,NON-HAZMAT,NON-HAZMAT,,,,
+285,142-91-6,Isopropyl palmitate,NON-HAZMAT,NON-HAZMAT,,,,
+286,68-11-1,Thioglycolic Acid,"Acute Tox. 3(oral,dermal and inhalation) Skin Corr. 1B, Eye Damage 1",1940,8,II,,LEHS6
+287,9004-61-9,Hyaluronic Acid,NON-HAZMAT,NON-HAZMAT,,,,
+288,25013-16-5,Butylated hydroxyanisole,"Skin Irrit. 2,Eye 2,Repr. 2,Carc. 2,Acute Tox. 4,Aquatic Chronic 2.",3077 SOLID/3082 LIQUID,9,III,,LEHS6
+289,7757-83-7,"Sodium sulfite,Sodium sulfite anhydrous",NON-HAZMAT,NON-HAZMAT,,,,
+290,7631-90-5,"Sodium bisulfite,Sodium hydrogen sulfite",Acute Tox. 4,NON-HAZMAT,,,,-
+291,68915-31-1,Polyphosphates,NON-HAZMAT,NON-HAZMAT,,,,
+292,7732-18-5,water,NON-HAZMAT,NON-HAZMAT,,,,
+293,68608-65-1,Sodium Cocoamphoacetate,Eye 2,NON-HAZMAT,,,,-
+294,110615-47-9,Â Lauryl Glucoside,"Skin Irrit. 2,Eye Damage 1",NON-HAZMAT,,,,LEHS3
+295,50-99-7,Glucose,NON-HAZMAT,NON-HAZMAT,,,,
+296,68187-32-6,Sodium Cocoyl Glutamate,Eye Irrit. 2,NON-HAZMAT,,,,-
+297,383178-66-3,Sodium Lauryl Glucose Carboxylate,Eye Irrit. 2,NON-HAZMAT,,,,-
+298,11138-66-2,Xanthan Gum,"Skin2, eye2",NON-HAZMAT,,,,-
+299,9000-07-1',Carrageenan,NON-HAZMAT,NON-HAZMAT,,,,
+300,68-26-8,Retinol,"Eye Irrit. 2,Skin Sens. 1,Repr. 1B,Aquatic Chronic 4",NON-HAZMAT,,,,LEHS6
+301,531-75-9,Aesculine,NON-HAZMAT,NON-HAZMAT,,,,
+302,458-37-7,Turmeric,NON-HAZMAT,NON-HAZMAT,,,,
+303,1117-86-8,CaprylylÂ Glycol,Eye irr2,NON-HAZMAT,,,,-
+304,68201-46-7,peg-7 glyceryl cocoate,NON-HAZMAT,NON-HAZMAT,,,,
+305,119-36-8,Methyl salicylate,Acute Tox. 4,NON-HAZMAT,,,,-
+306,163795-75-3,Sybr green I,NON-HAZMAT,NON-HAZMAT,,,,
+307,16674-78-5,Magnesium acetate tetrahydrate,NON-HAZMAT,NON-HAZMAT,,,,
+308,16940-66-2,sodium borohydride,"Water React. Flam. Gas 1,Acute Tox. Oral 3,Acute Tox. Inhl 2,Skin Corr. 1B,Eye Dam. 1,Repr. 1B",1426,4.3,I,,LEHS6
+309,17466-45-4,Phalloidin,"Acute toxicity, Category 1,Acute toxicity, Category 2,Acute toxicity, Category 1",2811,6.1,II,,LEHS6
+310,17831-71-9,"Oxybis(2,1-ethanediyloxy-2,1-ethanediyl)diacrylate","Acute Tox. 4,Skin Sens. 1B",NON-HAZMAT,,,,-
+311,18108-68-4,magnesium 8-(phenylamino)naphthalene-1-sulphonate,"Skin Irrit. 2,Eye Irrit. 2",NON-HAZMAT,,,,-
+312,18423-43-3,Thymidine 5?-triphosphate sodium salt,NON-HAZMAT,NON-HAZMAT,,,,
+313,1927-31-7,2?-Deoxyadenosine 5?-triphosphate disodium salt,NON-HAZMAT,NON-HAZMAT,,,,
+314,1934-21-0,trisodium 5-hydroxy-1-(4-sulphophenyl)-4-(4-sulphophenylazo)pyrazole-3-carboxylate,NON-HAZMAT,NON-HAZMAT,,,,
+315,1936-15-8,"disodium 7-hydroxy-8-phenylazonaphthalene-1,3-disulphonate",NON-HAZMAT,NON-HAZMAT,,,,
+316,19542-34-8,Z-Ala-Ser methyl ester,NON-HAZMAT,NON-HAZMAT,,,,
+317,2001-95-8,Valinomycein,"Acute Tox. Oral 1,Acute Tox. Dermal 1,Eye Dam. 1,Skin Irrit. 3,STOT SE 2",2811,6.1,I,,LEHS6
+318,2002-24-6, 2-hydroxyethylammonium chloride,NON-HAZMAT,NON-HAZMAT,,,,
+319,200-745-3,Histidine,NON-HAZMAT,NON-HAZMAT,,,,
+320,32131-17-2,NYLON 66,NON-HAZMAT,NON-HAZMAT,,,,
+321,Â 629-82-3,Dicaprylyl Ether,NON-HAZMAT,NON-HAZMAT,,,,
+322,90411-68-0,Cetearyl Ethylhexanoate,NON-HAZMAT,NON-HAZMAT,,,,
+323,131954-48-8,Polyquaternium-28,NON-HAZMAT,NON-HAZMAT,,,,
+324,60650-88-6,Sericin,NON-HAZMAT,NON-HAZMAT,,,,
+325,7695-91-2,Tocopheryl Acetate,NON-HAZMAT,NON-HAZMAT,,,,
+326,25038-74-8,NYLON-12,NON-HAZMAT,NON-HAZMAT,,,,
+327,39354-45-5,Disodium Laureth Sulfosuccinate,Eye Irrit. 2,NON-HAZMAT,,,,-
+328,58761-87-8,Sodium lauryl sulfoacetate,Chronic aquatic toxicity (Category 4),NON-HAZMAT,,,,LEHS3
+329, 4292-10-8,(carboxymethyl)dimethyl-3-[(1-oxododecyl)amino]propylammonium hydroxide,"Eye Dam. 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+330,38304-91-5,Minoxidil,"Acute toxicity, Oral (Category 4),Skin irritation (Category 2),Eye irritation (Category 2),Specific target organ toxicity - single exposure (Category 3),",NON-HAZMAT,,,,-
+331," 8007-02-1
+",Lemon grass oil,"Skin irritation (Category 2),Eye irritation (Category 2),Specific target organ toxicity - single exposure (Category 3), Respiratory system",NA 1993 (COMBUSTIBLE),,,90,-
+332,84625-40-1,"Fenugreek, ext",Skin Irrit. 2,NON-HAZMAT,,,,-
+333,6309-51-9,Isoamyl laurate,NON-HAZMAT,NON-HAZMAT,,,,
+334,85507-69-3,"Aloe vera, ext",NON-HAZMAT,NON-HAZMAT,,,,
+335,121-33-5,Vanillin,Eye irritation (Category 2),NON-HAZMAT,,,,-
+336, 8024-06-4,Vanilla ext,Flam. Liq. 3,UN 1197,3,III,29,LEHS3
+337,106-24-1,Geraniol,"Skin Irrit. 2,Skin Sens. 1,Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+338,2044-56-6,lithium dodecyl sulphate,"Flam. Sol. 1,Acute Tox. 4,Skin Irrit. 2,Eye Dam. 1,Acute Tox. 4,STOT SE 3,Aquatic Chronic 3",1325,4.1,III,,LEHS3
+339,206752-36-5,Benzamidine hydrochloride hydrate,"Skin Irrit. 2,Eye Irrit. 2,STOT SE 3",NON-HAZMAT,,,,-
+340,2154-68-9,"3-Carboxy-2,2,5,5-tetramethylpyrrolidine 1-Oxyl Free Radical",NON-HAZMAT,NON-HAZMAT,,,,
+341,15356-60-2,(+)-menthol,"Skin irritation (Category 2),Serious eye damage (Category 1),Specific target organ toxicity - single exposure (Category 3), Respiratory system",NON-HAZMAT,,,,LEHS3
+342,87-69-4,(+)-tartaric acid,Serious eye damage (Category 1),NON-HAZMAT,,,,LEHS3
+343,107898-54-4,"(+/-) trans-3,3-dimethyl-5-(2,2,3-trimethyl-cyclopent-3-en-1-yl)pent-4-en-2-ol","Skin Irrit. 2,Aquatic Acute 1,Aquatic Chronic 1",3082,9,III,,LEHS3
+344,1584709-99-8,(-)-(2S)-1-Isopropoxy-1-oxo-2-propanyl pivalate,NON-HAZMAT,NON-HAZMAT,,,,
+345,127-91-3,(-)-pin-2(10)-ene,"Flam. Liq. 3,Asp. Tox. 1,Skin Irrit. 2,Skin Sens. 1B,Aquatic Acute 1,Aquatic Chronic 1",2319,3,III,,LEHS3
+346,117704-25-3,"(1'R,2S,4'S,5S,6R,8'R,10'E,12'S,13'S,14'E,16'E,20'R,21'R,24'S)-6-cyclohexyl-21',24'-dihydroxy-12'-{[(2R,4S,5S,6S)-5-{[(2S,4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy}-4-methoxy-6-methyloxan-2-yl]oxy}-5,11',13',22'-tetramethyl-5,6-dihydro-3',7',19'-trioxaspiro[pyran-2,6'-tetracyclo[15.6.1.1?,?.0Ë›?,Ë›?]pentacosane]-10',14',16',22'-tetraen-2'-one","Acute Tox. 4,Repr. 2,Lact.,Aquatic Acute 1,Aquatic Chronic 1",3077,9,III,,LEHS6
+347,70331-94-1,"(1,2-dioxoethylene)bis(iminoethylene) bis[3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate]",Aquatic Chronic 4,NON-HAZMAT,,,,LEHS3
+348,67953-76-8,"(1-hydroxyethylidene)bisphosphonic acid, potassium salt","Met. Corr. 1,Acute Tox. 4,Eye Dam. 1",3265,8,III,,LEHS3
+349,29329-71-3,"(1-hydroxyethylidene)bisphosphonic acid, sodium salt","Met. Corr. 1,Acute Tox. 4,Eye Dam. 1",3265,8,III,,LEHS3
+350,42978-66-5,"(1-methyl-1,2-ethanediyl)bis[oxy(methyl-2,1-ethanediyl)] diacrylate","Skin Irrit. 2,Eye Irrit. 2,Skin Sens. 1,STOT SE 3,Aquatic Chronic 2",3077 (SOLID)/3082 (LIQUID),9,III,,LEHS3
+351,25640-78-2,"(1-methylethyl)-1,1'-biphenyl","Asp. Tox. 1,Eye Irrit. 2,Aquatic Acute 1,Aquatic Chronic 2",3077 (SOLID)/3082 (LIQUID),9,III,,LEHS3
+352,85029-52-3,"Acacia mearnsi, ext., reaction products with ammonium chloride and formaldehyde",Eye Irrit. 2,NON-HAZMAT,,,,-
+353,75-07-0,Acetaldehyde,"Flam. Liq. 1,Eye Irrit. 2,STOT SE 3,Carc. 2",1089,3,I,38,LEHS6
+354,107-29-9,Acetaldehyde oxime,"Flam. Liq. 3,Acute Tox. 4,Eye Irrit. 2,Carc. 2,Aquatic Chronic 3",2332,3,III,40,LEHS6
+355,60-35-5,Acetamide,Carc. 2,NON-HAZMAT,,,,LEHS6
+356,68608-66-2,"Acetic acid, chloro-, sodium salt, reaction products with 4,5-dihydro-2-undecyl-1H-imidazole-1-ethanol and sodium hydroxide",Eye Irrit. 2,NON-HAZMAT,,,,-
+357,39430-51-8,"Acetic acid, chromium salt, basic",Skin Sens. 1B,NON-HAZMAT,,,,-
+358,69103-01-1,"Acetic acid, esters with turpentine-oil myrcene fraction terpene alcs.","Skin Sens. 1B,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+359,51404-69-4,"Acetic acid, lead salt, basic","Acute Tox. 4(ORAL),Acute Tox. 4(INHL),Repr. 1A,STOT RE 2,Aquatic Chronic 1",3077 (SOLID)/3082 (LIQUID),9,III,,LEHS3
+360,84539-54-8,"Acetic acid, oxo-, sodium salt, reaction products with ethylenediamine and hydroxybenzenesulfonic acid monosodium salt, iron sodium salts",NON-HAZMAT,NON-HAZMAT,,,,
+361,84539-55-9,"Acetic acid, oxo-, sodium salt, reaction products with ethylenediamine and phenol, iron sodium salts",Skin Sens. 1B,NON-HAZMAT,,,,-
+362,108-24-7,Acetic anhydride,"Flam. Liq. 3,Acute Tox. 4(ORAL),Skin Corr. 1B,Acute Tox. 4 (INHL)",1715,8 (3),II,49,LEHS3
+363,127-06-0,Acetone oxime,"Flammable solids (Category 2),Acute toxicity, Dermal (Category 4),Serious eye damage (Category 1),Skin sensitisation (Sub-category 1B),Carcinogenicity (Category 2)",1325,4.1,III,,LEHS6
+364,75-05-8,Acetonitrile,"Flammable liquids (Category 2),Acute toxicity, Oral (Category 4),Acute toxicity, Inhalation (Category 4),Acute toxicity, Dermal (Category 4),Eye irritation (Category 2)",1648,3,II,2,LEHS3
+365, 97-59-6,allantoin,NON-HAZMAT,NON-HAZMAT,NON-HAZMAT,,,
+366,9004-99-3,PEG-100 Stearate,NON-HAZMAT,NON-HAZMAT,NON-HAZMAT,,,
+367,111-01-3,Squalane,NON-HAZMAT,NON-HAZMAT,,,,
+368,68037-64-9,peg/ppg-18/18,NON-HAZMAT,NON-HAZMAT,,,,
+369,26628-22-8,SODIUM AZIDE,"Acute Tox. 2,Acute Tox. 1,Acute Tox. 2,Skin Irrit. 2,Eye Irrit. 2,STOT Single Exp. 1,STOT Rep. Exp. 2,Aquatic Acute 1,Aquatic Chronic 1",UN1687,6.1,II,,LEHS6
+370,2893-78-9,Troclosene sodium,"Acute Tox. 4,Eye Irrit. 2,STOT Single Exp. 3,Aquatic Acute 1,Aquatic chronic 1",UN 2465,5.1,II,,LEHS3
+371,45738-97-4,Hypoxanthine monosodium salt,Eye Damage 1,NON-HAZMAT,,,,LEHS3
+372,5144-89-8,o-Phenanthroline,"Acute toxicity, Category 3, Oral,Acute aquatic toxicity, Category 1,Chronic aquatic toxicity, Category 1",2811,6.1,III,,LEHS6
+373,518-47-8,Disodium 2-(3-oxo-6-oxidoxanthen-9-yl)benzoate,NON-HAZMAT,NON-HAZMAT,,,,
+374,540-69-2,Ammonium formate,"Skin Irrit. 2,Eye Irrit. 2,STOT Single Exp. 3",NON-HAZMAT,,,,-
+375,56-41-7,L-alanine,NON-HAZMAT,NON-HAZMAT,,,,
+376,57-50-1,Sucrose,NON-HAZMAT,NON-HAZMAT,,,,
+377,60-24-2,2-mercaptoethanol,"Acute Tox. 3,Acute Tox. 2,Acute Tox. 3,Skin Irrit. 2,Eye Damage 1,Skin Sens. 1A,Repr. 2,STOT Rep. Exp. 2,Aquatic Acute 1,Aquatic Chronic 2",UN2966,6.1,II,,LEHS6
+378,6131-90-4,"Sodium Acetate, Trihydrate",NON-HAZMAT,NON-HAZMAT,,,,
+379,67-48-1,Choline chloride,NON-HAZMAT,NON-HAZMAT,,,,
+380,5934-29-2,L-Histidine Hydrochloride Monohydrate,Eye Irrit. 2,NON-HAZMAT,,,,-
+381,60-18-4,Tyrosine,NON-HAZMAT,NON-HAZMAT,,,,
+382,61-90-5,L-leucine,NON-HAZMAT,NON-HAZMAT,,,,
+383,631-61-8,Ammonium acetate,NON-HAZMAT,NON-HAZMAT,,,,
+384,64431-96-5,BIS-TRIS propane,STOT SE 3 ; Eye Irrit. 2; Skin Irrit. 2,NON-HAZMAT,,,,-
+385,64987-85-5,Succinimidyl-4-(N-maleimidomethyl)cyclohexane-1-carboxylate,"Eye 2,STOT SE 3",NON-HAZMAT,,,,
+386,65-71-4,5-methyluracil,Eye Irrit. 2,NON-HAZMAT,,,,-
+387,66-22-8,Uracil,NON-HAZMAT,NON-HAZMAT,,,,
+388,68-94-0,Purin-6(1H)-one,NON-HAZMAT,NON-HAZMAT,,,,
+389,69-89-6,Xanthine,"eye damage/eye irritation Category 2A,Skin sensitization Category 1",NON-HAZMAT,,,,-
+390,7558-80-7,Sodium dihydrogenorthophosphate,NON-HAZMAT,NON-HAZMAT,,,,
+391,45021-77-0,Trimethyl-3-[(1-oxoallyl)amino]propylammonium chloride,NON-HAZMAT,NON-HAZMAT,,,,
+392,52-89-1,Cysteine hydrochloride,Eye Irrit. 2,NON-HAZMAT,,,,-
+393,56-87-1,L-lysine,NON-HAZMAT,NON-HAZMAT,,,,
+394,69-65-8,D-mannitol,NON-HAZMAT,NON-HAZMAT,,,,
+395,70-47-3,Asparagine,NON-HAZMAT,NON-HAZMAT,,,,
+396,71-00-1,Histidine,NON-HAZMAT,NON-HAZMAT,,,,
+397,72-18-4,L-valine,NON-HAZMAT,NON-HAZMAT,,,,
+398,73-22-3,L-tryptophan,NON-HAZMAT,NON-HAZMAT,,,,
+399,7365-45-9,4-(2-hydroxyethyl)piperazin-1-ylethanesulphonic acid,NON-HAZMAT,NON-HAZMAT,,,,
+400,7447-40-7,Potassium chloride,NON-HAZMAT,NON-HAZMAT,,,,
+401,74-79-3,Arginine,NON-HAZMAT,NON-HAZMAT,,,,
+402,7585-39-9,Cycloheptapentylose,NON-HAZMAT,NON-HAZMAT,,,,
+403,7778-53-2,Tripotassium orthophosphate,"Eye Damage 1,STOT Single Exp. 3",NON-HAZMAT,,,,LEHS3
+404,78-92-2,Butan-2-ol,"Flam. Liquid 3,Eye Irrit. 2,STOT Single Exp. 3",1120,3,II,,LEHS3
+405,79-09-4,Propionic acid,Skin Corr. 1B,3463,8(3),II,,LEHS3
+406,471-34-1,Calcium Carbonate,NON-HAZMAT,NON-HAZMAT,,,,
+407,9005-64-5,Polysorbate 20,NON-HAZMAT,NON-HAZMAT,,,,
+408,66402-68-4,SODIUM POTASSIUM ALUMINUM SILICATE,Eye Irrit. 2,NON-HAZMAT,,,,-
+409,  9003-01-4,Carbomer,"Acute Tox. 4,Eye Dam. 1,STOT SE 3,Aquatic Acute 1,Aquatic Chronic 2",3082,9,III,,LEHS3
+410,470-82-6,eucalyptol,"Flam. Liq. 3, Skin Sens. 1B",1993,3,III,52,LEHS3
+411,2216-51-5,Menthol,"Skin Irrit. 2, Eye Irrit. 2",NON-HAZMAT,,,,-
+412, 68439-50-9 ,Laureth-4,"Aquatic Acute 1,Aquatic Chronic 3 ",3082,9,III,,LEHS3
+413,1643-20-5,Lauramine oxide,"Acute Tox. 4,Skin Irrit. 2,Eye Dam. 1,Aquatic Acute 1,Aquatic Chronic 2",3082,9,III,,LEHS3
+414,68411-27-8,C12 C15 alkyl benzoate,NON-HAZMAT,NON-HAZMAT,,,,
+415,68610-92-4,Polyquaternium-10,"Skin irritation (Category 2),Eye irritation (Category 2),Specific target organ toxicity - single exposure (Category 3)",NON-HAZMAT,,,,-
+416,91722-81-5,lychee extract,Flam. Liq. 3,1993,3,II,41,LEHS3
+417,9005-65-6,Polyoxyethylene (20) sorbitan monooleate,NON-HAZMAT,NON-HAZMAT,,,,
+418,108-32-7,Propylene carbonate,Eye Irrit. 2,NON-HAZMAT,,,,-
+419,73398-61-5Â ,Caprylic/capric triglycerides,NON-HAZMAT,NON-HAZMAT,,,,
+420,59130-69-7,Cetyl Ethylhexanoate,NON-HAZMAT,NON-HAZMAT,,,,
+421,65997-13-9,Glyceryl Hydrogenated Rosinate,NON-HAZMAT,NON-HAZMAT,,,,
+422, 8050-09-7,Rosin,Skin Sens. 1,NON-HAZMAT,,,,-
+423,8006-54-0,lanolin,NON-HAZMAT,NON-HAZMAT,,,,
+424,504-63-2,propanediol,NON-HAZMAT,NON-HAZMAT,,,,
+425,98-86-2,Acetophenone,"Acute Tox. 4,Eye Irrit. 2",NON-HAZMAT,,,,-
+426,616-91-1,Acetylcysteine,NON-HAZMAT,NON-HAZMAT,,,,
+427,74-86-2,Acetylene,Flam. Gas 1,1001,2,,,LEHS3
+428,188959-24-2,Acetylxylan esterase,Resp. Sens. 1,NON-HAZMAT,,,,-
+429,68187-89-3,"Acid chlorides, coco","Skin Irrit. 2,Skin Sens. 1B",NON-HAZMAT,,,,-
+430,107-02-8,Acrylaldehyde,"Flam. Liq. 2,Acute Tox. 2,Acute Tox. 3,Skin Corr. 1B,Acute Tox. 1,Aquatic Acute 1,Aquatic Chronic 1",1092,6.1(3),I,-26,LEHS6
+431, 9003-11-6,POLOXAMER 407,NON-HAZMAT,NON-HAZMAT,,,,
+432,6004-24-6,Cetylpyridinium chloride,"Acute toxicity, Oral (Category 3),Acute toxicity, Inhalation (Category 2),Skin irritation (Category 2),Eye irritation (Category 2), Specific target organ toxicity - single exposure (Category 3), Respiratory system, Acute aquatic toxicity (Category 1), Chronic aquatic toxicity (Category 1)",2811,6.1,II,,LEHS6
+433,141-43-5,ethanolamine,"Acute Tox. 4 (oral),Acute Tox. 4(derm),Skin Corr. 1B,Acute Tox. 4 (inhal),STOT SE 3,Aquatic Chronic 3",2491,8,II,86,LEHS3
+434,139-96-8,Tea-Lauryl Sulfate,"Skin irritation (Category 2),Serious eye damage (Category 1)",NON-HAZMAT,,,,LEHS3
+435,27-47-9,Vitamin A acetate,"Reproductive toxicity (Category 1B),Chronic aquatic toxicity (Category 4)",NON-HAZMAT,,,,LEHS6
+436,1344-95-2,CALCIUM SILICATE,NON-HAZMAT,NON-HAZMAT,,,,
+437,75-21-8,Ethylene oxide,"Flam. Gas 1,Skin Irrit. 2,Eye Irrit. 2,Acute Tox. 3 ,STOT SE 3,Muta. 1B,Carc. 1B",1040,2.3(2.1),,-20,LEHS6
+438,1309-42-8,Magnesium hydroxide,NON-HAZMAT,NON-HAZMAT,,,,
+439,79-10-7,Acrylic acid,"Flam. Liq. 3,Acute Tox. 4,Acute Tox. 4,Skin Corr. 1A,Acute Tox. 4,Aquatic Acute 1",2218, 8 (3),II,46,LEHS3
+440,637-12-7,aluminum stearate,NON-HAZMAT,NON-HAZMAT,,,,
+441,31694-55-0,Glycereth-26,NON-HAZMAT,NON-HAZMAT,,,,
+442,108-88-3,TOLUENE,"Flam. Liq. 2,Skin Irrit. 2,Asp. Tox. 1,STOT SE 3,STOT RE 2,Repr. 2 ",UN1294,3,II,,LEHS6
+443,8060-28-4,humulus lupulus cone extract,"Skin Irrit. 2, Skin Sens. 1, Eye Irrit. 2",NON-HAZMAT,,,,-
+444,5888-33-5,Isobornyl Acrylate,"Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+445,91845-35-1,Ocimum Tenuiforum Leaf,Skin Irrit. 2,NON-HAZMAT,,,,
+446,79-33-4,L - (+) - lactic acid,"Skin Irrit. 2, Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+447,582-25-2,Potassium benzoate,"Skin Irrit. 2, Eye Dam. 1",NON-HAZMAT,,,,-
+448,7553-56-2,Iodide,Aquatic Acute 1,9el/9es,9,III,,
+449,18979-61-8,4-Butylresorcinol,Aquatic Acute 1,9el/9es,9,III,,LEHS3
+450,103597-45-1,methylene bis-benzotriazolyl tetramethylbutylphenol,Aquatic Chronic 4,NON-HAZMAT,,,,LEHS3
+451,8000-46-2,geranium oil,"Skin Irrit. 2, Skin Sens. 1B, Eye Irrit. 2",NA1993,3,III,64,-
+452,115-95-7,Linalyl acetate,"Skin Irrit. 2, Skin Sens. 1B, Eye Irrit. 2",NON-HAZMAT,,,,-
+453,?68131-39-5,C12-15 PARETH-12,"Aquatic Acute 1, Aquatic Chronic 3",9el/9es,9,III,,LEHS3
+454,175357-18-3,undecylenoyl phenylalanine,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+455,7722-88-5,Tetrasodium pyrophosphate,"Acute Tox. 4, Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+456,562-10-7,Doxylamine succinate,"Acute Tox. 4, Acute Tox. 4, Acute Tox. 4",NON-HAZMAT,,,,-
+457,61-76-7,Phenylephrine Hydrochloride,"Acute Tox. 4, Skin Sens. 1B, Aquatic Acute 2",NON-HAZMAT,,,,-
+458,15625-89-5 ,Trimethylolpropane triacrylate,"Skin Irrit. 2, Skin Sens. 1, Eye Irrit. 2, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+459,519-02-8,sophora flavescens extract,"Acute Tox. 4, Eye Irrit. 2",NON-HAZMAT,,,,
+460,122-19-0,Stearalkonium Chloride,"Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+461,84775-80-4,BACKHOUSIA CITRIODORA LEAF OIL,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+462,183476-82-6,Tetrahexyldecyl Ascorbate,Aquatic Chronic 1,9el/9es,9,III,,LEHS3
+463,?527-09-3,COPPER GLUCONATE,Aquatic Chronic 1,9el/9es,9,III,,LEHS3
+464,629-50-5,Tridecane,Asp. Tox. 1,NON-HAZMAT,,,,LEHS3
+465,19856-23-6,SODIUM LEVULINATE,"Acute Tox. 4, Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+466,24938-91-8 ,Trideceth-9,"Eye Dam. 1, Acute Tox. 4, ",NON-HAZMAT,,,,LEHS3
+467,21145-77-7,Acetyl hexamenthyl tetrahydronaphthalene,"Acute Tox. 4, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+468,408-35-5,Sodium palmitate,Eye Irrit. 2,NON-HAZMAT,,,,-
+469,56554-53-1,Triisononanoin,"Acute Tox. 4,Skin Sens. 1B",NON-HAZMAT,,,,-
+470,501-36-0,Polygonum Cuspidatum Extract,Eye Irrit. 2,NON-HAZMAT,,,,
+471,72-17-3,Sodium lactate ,Eye Irrit. 2,NON-HAZMAT,,,,
+472,90622-77-8,Amides C12-18 and C18-unsatd. N-hydroxyethyl,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+473,2943-75-1,Triethoxycaprylylsilane,Skin Irrit. 2,NON-HAZMAT,,,,-
+474,83682-78-4,Linoleamidopropyl PG-dimonium chloride phosphate,"Eye Dam. 1, Aquatic Acute 1, Aquatic Chronic 2 ",9el/9es,9,III,,LEHS3
+475,221-761-7,4-Isopropyl-3-methylphenol ,Eye Dam. 1,NON-HAZMAT,,,,
+476,7534-94-3 ,Isobornyl methacrylate,Aquatic Chronic 3,NON-HAZMAT,,,,
+477,19035-79-1,Potassium cetyl phosphate,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+478,9011-14-7,poly methyl methacrylate ,"Skin Irrit. 2, Eye Irrit. 2, STOT SE 3",NON-HAZMAT,,,,-
+479,84082-61-1,melissa officinalis extract,"Skin Irrit. 2, Skin Sens. 1, Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+480,8002-66-2,chamomile,"Asp. Tox. 1, Skin Irrit. 2, Skin Sens. 1b, Eye Dam. 1, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+481,814-71-1,Calcium Thioglycolate,"Acute Tox. 4, Skin Irrit. 2, Eye Irrit. 2, STOT SE 3",NON-HAZMAT,,,,-
+482,60209-82-7,Isodecyl neopentanoate,Aquatic Chronic 1,9el/9es,9,III,,LEHS3
+483,84929-61-3,Carrot (Daucus Carota) Root Powder ,"Asp. Tox. 1, Skin Irrit. 2, Skin Sens. 1, Eye Dam. 1, Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+484,1077-28-7,alpha lipoic acid,"Acute Tox. 4, Skin Irrit. 2, Skin Sens. 1, Eye Irrit. 2, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+485,6283-92-7,lauryl lactate,"Eye Irrit. 2B, Aquatic Acute 1, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+486,9002-93-1,octoxynol-9,"Acute Tox. 4, Eye Irrit. 2",NON-HAZMAT,,,,-
+487,14858-73-2,"
+Diethylhexyl carbonate",Skin Irrit. 2,NON-HAZMAT,,,,-
+488,9005-36-1,Potassium alginate,Eye Irrit. 2,NON-HAZMAT,,,,
+489,57-09-0,Cetrimonium Bromide,"Acute Tox. 4, Skin Irrit. 2, Eye Dam. 1, STOT SE 3, STOT RE 2, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+490,61789-32-0,sodium lauroyl isethionate,"Eye Irrit. 2, Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+491,80-54-6,Butylphenyl Methylpropional,"Acute Tox. 4, Skin Irrit. 2, Skin Sens. 1B, Repr. 2, Aquatic Chronic 3",NON-HAZMAT,,,,LEHS6
+492,497-76-7,arbutin,"Skin Irrit. 2, Eye Irrit. 2, STOT SE 3",NON-HAZMAT,,,,-
+493,9003-13-8,PPG-14 Butyl Ether,"Acute Tox. 4, Skin Irrit. 2, Eye Irrit. 2",NON-HAZMAT,,,,-
+494,190085-41-7,butyloctyl salicylate,Aquatic Chronic 4,NON-HAZMAT,,,,LEHS3
+495,142-16-5,Diethylhexyl Maleate,"STOT RE 2, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+496,104-29-0,Chlorphenesin,"Skin Irrit. 2, Eye Irrit. 2",NON-HAZMAT,,,,-
+497,9004-98-2,Oleth-20,"Skin Irrit. 2, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+498,8009-03-8',Vaseline,Carc. 1B,NON-HAZMAT,,,,LEHS6
+499,84082-70-2,MENTHAPIPERITA,"Skin Irrit. 2,Eye Irrit. 2,Skin Sens. 1,Aquatic Chronic 3,",NON-HAZMAT,,,,LEHS3
+500,5343-92-0,Pentylene Glycol,Eye Damage 1,NON-HAZMAT,,,,LEHS3
+501,6440-58-0,DMDM Hydantoin,Acute Tox. 4,NON-HAZMAT,,,,-
+502,822-16-2,Sodium Stearate,eye dam. 2,NON-HAZMAT,,,,-
+503,57-83-0,USP Progesterone,"Carc. 2, Repr. 1A",NON-HAZMAT,,,,LEHS6
+504,222400-43-3,Sodium lauroyl oat aminoacids,Eye Dam. 1,NON-HAZMAT,,,,LEHS3
+505,6920-22-5,"1,2-Hexanediol",Eye Irrit. 2,NON-HAZMAT,,,,-
+506,60-12-8,Phenethyl Alcohol,"Acute Tox. 4, Acute Tox. 4, Eye Irrit. 2",NON-HAZMAT,,,96,
+507,497-19-8,Sodium carbonate,Eye Irrit. 2,NON-HAZMAT,,,,-
+508,61791-59-1,Sodium Cocoyl Sarcosinate,"Skin Irrit. 2, Eye Damage 1",NON-HAZMAT,,,,LEHS3
+509,131-57-7,oxybenzone,"Aquatic Acute 1, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+510,1401-55-4,Tannic acid,Eye Irrit. 2,NON-HAZMAT,,,,
+511,68439-49-6,Ceteareth-20,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+512,112-40-3,Dodecane,Asp. Tox. 1,NON-HAZMAT,,,,LEHS3
+513,39236-46-9,Imidazolidinyl urea,Skin Sens. 1B,NON-HAZMAT,,,,-
+514,9002-92-0,LAURETH-23,"Acute Tox. 4, Skin Irrit. 2, Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+515,683-10-3,Lauryl Betaine ,"Skin Irrit. 2, Skin Sens. 1, Eye Irrit. 2",NON-HAZMAT,,,,
+516,68439-57-6,Sodium C14-16 Olefin Sulfonate,"Skin Irrit. 2, Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+517,7440-44-0,carbon ,STOT RE 2,NON-HAZMAT,,,,-
+518,8/7/25,"N,N-dimethylnonanamide","
+Skin Irrit. 2,Eye Irrit. 2A ",NON-HAZMAT,,,132Â Â°C,-
+519,68480-11-5,"Decahydrospiro[furan-2(3H),5'-[4,7]methano[5H]indene]","Skin Irrit. 2,Skin Sens. 1B,Aquatic Acute 1,Aquatic Chronic 1",9el/9es,9,III,94Â Â°C,LEHS3
+520,112-30-1,Decan-1-ol,"Eye Irrit. 2
+Aquatic Chronic 3",NON-HAZMAT,,,107 Â°C,LEHS3
+521,705-86-2,Decan-5-olide,Aquatic Chronic 2,9el/9es,9,,82.3Â Â°C,LEHS3
+522,112-31-2,Decanal,"EyeÂ Irrit. 2, 
+Aquatic Chronic 3",NON-HAZMAT,,,93Â Â°C,LEHS3
+523,1119-86-4,"Decane-1,2-diol",Eye Damage 1,NON-HAZMAT,,,,LEHS3
+524,334-48-5,Decanoic acid,"Skin Irrit. 2 , Eye Irrit. 2",NON-HAZMAT,,,147Â Â°C,LEHS3
+525,90342-32-8,"Decanol, branched and linear","Eye Irrit. 2, Aquatic Chronic 3",NON-HAZMAT,,,106.8Â Â°C,LEHS3
+526,112-17-4,Decyl acetate,"Aquatic Acute 1,  Aquatic Chronic 1",9el/9es,9,III,107.8Â Â°C,LEHS3
+527,3179-47-3,Decyl methacrylate,"Skin Irrit. 2, 
+Eye Irrit. 2,STOT Single Exp. 3",NON-HAZMAT,9,III,Â 110Â Â°C,-
+528,2855-19-8,Decyloxirane,"Skin Irrit. 2, Aquatic Acute 1,  Aquatic Chronic 1",9el/9es,9,III,105Â Â°C,LEHS3
+529,9026-97-5,Deoxyribose-phosphate aldolase EC 4.1.2.4.,Resp. Sens. 1,NON-HAZMAT,,,,-
+530,9032-14-8,Dextransucrase,Resp. Sens. 1 ,NON-HAZMAT,,,,-
+531,120-78-5,Di(benzothiazol-2-yl) disulphide,"Skin Sens. 1,  Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+532,103-34-4,Di(morpholin-4-yl) disulphide,"Skin Sens. 1,  STOT Single Exp. 3, Aquatic Acute 2, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+533,27458-90-8,Di-tert-dodecyl disulphide,Skin Sens. 1B,NON-HAZMAT, ,,Flash point at 101 325 Pa:138 Â°C,-
+534,142-22-3,"Diallyl 2,2'-oxydiethyl dicarbonate","Acute Tox. 4,  Skin Irrit. 2, Aquatic Acute 1",9el/9es,9,III,186Â Â°C,LEHS3
+535,131-17-9,Diallyl phthalate,"Acute Tox. 4, Acute Tox. 4,  Skin Sens. 1B,  Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,166Â Â°C,LEHS3
+536,12004-35-2,Dialuminium nickel tetraoxide,"Skin Sens. 1,  Carc. 1A, STOT Rep. Exp. 1",NON-HAZMAT,,,,LEHS6
+537,15876-39-8,"Dialuminium tris[2-(2,4,5,7-tetrabromo-6-oxido-3-oxoxanthen-9-yl)benzoate]",Eye Irrit. 2,NON-HAZMAT,,,"> 250 Â°C
+",-
+538,12068-53-0,Dialuminium zinc tetraoxide,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+539,14323-43-4,Diamminedichloropalladium,"Acute Tox. 4,  Eye Damage 1, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+540,68223-93-8,"Diammonium 2,2'-dithiodiacetate",Acute Tox. 4,NON-HAZMAT,9,III,,-
+541,12007-89-5,Diammonium decaborate,Repr. 2,NON-HAZMAT,,,,LEHS6
+542,20824-56-0,Diammonium dihydrogen ethylenediaminetetraacetate,"Acute Tox. 4,  STOT Rep. Exp. 2",NON-HAZMAT,,,,-
+543,19168-23-1,Diammonium hexachloropalladate,"Acute Tox. 4,  Skin Irrit. 2, Eye Damage 1, Skin Sens. 1B,  Aquatic Acute 1,  Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+544,1113-38-8,Diammonium oxalate,"Acute Tox. 4,  Acute Tox. 4,  Eye Irrit. 2",NON-HAZMAT,,,,-
+545,589-98-0,(Â±)-octan-3-ol,"Skin Irrit. 2;Eye Irrit. 2
+",NON-HAZMAT,,,68Â Â°C,-
+546,68479-98-1,Diethylmethylbenzenediamine,"Acute Tox. 4, Eye Irrit. 2, STOT Rep. Exp. 2, Aquatic Acute 1",9el/9es,9,III,>= 156Â Â°C,LEHS3
+547,593-85-1,Diguanidinium carbonate,"Acute Tox. 4, 
+Eye Damage 1",NON-HAZMAT,,,,LEHS3
+548,112-58-3,Dihexyl ether,"Aquatic Acute 1, 
+Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+549,26680-54-6,"Dihydro-3-(octenyl)furan-2,5-dione","Acute Tox. 4, 
+Skin Irrit. 2, Eye Irrit. 2, 
+Skin Sens. 1A, ",NON-HAZMAT,,,,-
+550,26544-38-7,"Dihydro-3-(tetrapropenyl)furan-2,5-dione","Eye Irrit. 2, Skin Sens. 1A, Aquatic Chronic 4",NON-HAZMAT,,,,LEHS3
+551,93642-68-3,"Dihydro-3-[3-(triethoxysilyl)propyl]furan-2,5-dione",Eye Irrit. 2,NON-HAZMAT,,,,-
+552,42482-06-4,"Dihydro-3-(octenyl)furan-2,5-dione","Acute Tox. 4, 
+Skin Irrit. 2, Eye Irrit. 2, 
+Skin Sens. 1A",NON-HAZMAT,,,> 146 - < 206Â Â°C,-
+553,2353-45-9,"Dihydrogen (ethyl)[4-[4-[ethyl(3-sulphonatobenzyl)amino](4-hydroxy-2-sulphonatobenzhydrylidene]cyclohexa-2,5-dien-1-ylidene](3-sulphonatobenzyl)ammonium, disodium salt",STOT Single Exp. 3,NON-HAZMAT,,,178Â Â°C,-
+554,51850-20-5,Dihydrogen hexahydroxyplatinate,"
+Eye Irrit. 2, 
+Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+555,54553-91-2,"Benzene-1,2,4,5-tetracarboxylic acid, compound with 4,5-dihydro-2-phenyl-1H-imidazole (1:2)","Acute Tox. 4, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+556,552-30-7,"Benzene-1,2,4-tricarboxylic acid 1,2-anhydride","Eye Damage 1, Resp. Sens. 1, Skin Sens. 1, 
+STOT Single Exp. 3
+
+",NON-HAZMAT,,,227Â Â°C,LEHS3
+557,68183-39-1,"Benzene-1,2,4-tricarboxylic acid 1,2-anhydride, oligomeric reaction products with ethane-1,2-diol and glycerol","Eye Damage 1, Resp. Sens. 1, STOT Single Exp. 3,SkinSens1",NON-HAZMAT,,,,LEHS3
+558,89-32-7,"Benzene-1,2:4,5-tetracarboxylic dianhydride","Eye Damage 1, Resp. Sens. 1, 
+, Skin Sens. 1
+",NON-HAZMAT,,,,LEHS3
+559,29895-73-6,"Benzeneacetaldehyde, cyclic acetal with glycerol","Acute Tox. 4, Skin Irrit. 2
+, Eye Irrit. 2, 
+
+",NON-HAZMAT,,,,-
+560,90194-39-1,"Benzenesulfonic acid, mono-C10-13-alkyl derivs., compds. with diethanolamine","Acute Tox. 4, 
+Skin Irrit. 2, 
+Eye Damage 1, 
+STOT Rep. Exp. 2, 
+Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+561,85480-55-3,"Benzenesulfonic acid, mono-C10-13-alkyl derivs., compds. with ethanolamine","Acute Tox. 4, Skin Irrit. 2
+, Eye Damage 1, Aquatic Chronic 3
+",NON-HAZMAT,,,,LEHS3
+562,85480-57-5,"Benzenesulfonic acid, mono-C10-13-alkyl derivs., potassium salts","Acute Tox. 4, Skin Irrit. 2, Eye Damage 1",NON-HAZMAT,,,,LEHS3
+563,68953-96-8,"Benzenesulfonic acid, mono-C11-13-branched alkyl derivs., calcium salts","Acute Tox. 4, Skin Irrit. 2, Eye Damage 1, Aquatic Chronic 2
+",9el/9es,9,III,,LEHS3
+564,68608-89-9,"Benzenesulfonic acid, mono-C11-13-branched alkyl derivs., sodium salts","Acute Tox. 4, Skin Irrit. 2, Eye Damage 1
+, Aquatic Acute 1, Aquatic Chronic 2
+",9el/9es,9,III,,LEHS3
+565,119-61-9,Benzophenone,"STOT Rep. Exp. 2, Aquatic Chronic 3, ",NON-HAZMAT,,,138-155Â°C,LEHS3
+566,2421-28-5,"Benzophenone-3,3':4,4'-tetracarboxylic dianhydride","Eye Irrit. 2, Skin Sens. 1A,  STOT Single Exp. 3, Eye Irrit. 2, Aquatic Chronic 3
+",NON-HAZMAT,,,,LEHS3
+567,149-30-4,Benzothiazole-2-thiol,"Skin Sens. 1,Aquatic Acute 1,Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+568,95-14-7,Benzotriazole,"Acute Tox. 4, Eye Irrit. 2, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+569,94-18-8,Benzyl 4-hydroxybenzoate,"Skin Irrit. 2, Eye Irrit. 2, STOT Single Exp. 3, ",NON-HAZMAT,,,,-
+570,140-11-4,Benzyl acetate,Aquatic Chronic 3,NON-HAZMAT,,,102Â Â°C,LEHS3
+571,100-51-6,Benzyl alcohol,"Acute Tox. 4,Acute Tox. 4,Eye Irrit. 2,",NON-HAZMAT,,,,-
+572,85-68-7,Benzyl butyl phthalate,"Repr. 1B, Aquatic Chronic 1
+",9el/9es,9,III,198Â Â°C,LEHS6
+573,103-41-3,Benzyl cinnamate,"Skin Sens. 1B, Aquatic Acute 1, Aquatic Chronic 2",9el/9es,9,III,180Â Â°C,LEHS3
+574,104-57-4,Benzyl formate,"Acute Tox. 4, Skin Irrit. 2, ",NON-HAZMAT,,,86Â Â°C,-
+575,103-28-6,Benzyl isobutyrate,Eye Irrit. 2,NON-HAZMAT,,,92.3Â Â°C,-
+576,2495-37-6,Benzyl methacrylate,"Skin Irrit. 2, Eye Irrit. 2
+, Skin Sens. 1B, STOT Single Exp. 3",NON-HAZMAT,,,> 100Â Â°C,-
+577,221640-14-8,benzyl N-[(2S)-1-[(2-aminoethyl)amino]-3-(4-ethoxyphenyl)propan-2-yl]carbamate dihydrochloride,"Acute Tox. 4, Skin Irrit. 2, Eye Damage 1, Skin Sens. 1B, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+578,118-58-1,Benzyl salicylate,"Eye Irrit. 2, Skin Sens. 1B, Aquatic Chronic 3",NON-HAZMAT,,,176.5Â Â°C,LEHS3
+579,577705-90-9,"benzyl(diethylamino)diphenylphosphanium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]benzen-1-olate","Acute tox 4,Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+580,46830-22-2,Benzyldimethyl[2-[(1-oxoallyl)oxy]ethyl]ammonium chloride,Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+581,20570-96-1,Benzylhydrazine dihydrochloride,"Acute Tox. 4, Skin Irrit. 2, Eye Irrit. 2, Skin Sens. 1",NON-HAZMAT,,,118Â Â°C,-
+582,27776-01-8,Benzyltoluene,"Skin Irrit. 2,Asp. Tox. 1,Aquatic Chronic 4",NON-HAZMAT,,,,LEHS3
+583,102561-46-6,"Benzenemethanaminium, N,N,N-tributyl-, 4-hydroxy-1-naphthalenesulfonate (1:1)","Acute Tox. 4,Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+584,56-37-1,Benzyltriethylammonium chloride,"Acute Tox. 4, Skin Sens. 1B, Aquatic Chronic 3
+",NON-HAZMAT,,,155Â Â°C,LEHS3
+585,94088-77-4,Benzyltris(dimethylaminato)phosphorus(1+) tetrafluoroborate(1-),"Eye Irrit. 2, Aquatic Chronic 3, ",NON-HAZMAT,,,292Â Â°C,LEHS3
+586,378-44-9,Betamethasone,"Repr. 1B, STOT Rep. Exp. 2",NON-HAZMAT,,,,LEHS6
+587,67762-73-6,"Bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-, phosphosulfurized","Skin Sens. 1B, Aquatic Acute 1, Aquatic Chronic 2",9el/9es,9,III,127Â Â°C,-
+588,92-52-4,Biphenyl,"Skin Irrit. 2, Eye Irrit. 2, STOT Single Exp. 3, Aquatic Acute 1, Aquatic Chronic 1, ",9el/9es,9,III,110Â Â°C,LEHS3
+589,90-43-7,Biphenyl-2-ol,"Skin Irrit. 2, Eye Damage 1, STOT Single Exp. 3, Aquatic Acute 1, Aquatic Chronic 1
+",9el/9es,9,III,,LEHS3
+590,72009-86-0,"Biphenyl-2-ol, ethoxylated, esters with acrylic acid","Skin Sens. 1A, Aquatic Chronic 2",9el/9es,9,III,165Â Â°C,LEHS3
+591,65646-25-5,"dipropyl cyclohexane-1,2-dicarboxylate",Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+592,13977-65-6,potassium hydrogen phosphonate,Eye Irrit. 2,NON-HAZMAT,,,,-
+593,10294-26-5,Disilver(1+) sulphate,"Eye Damage 1,
+Aquatic Acute 1,
+Aquatic Chronic 1",NON-HAZMAT,9,III,,LEHS3
+594,71720-84-8,"Disodium ar,ar'-[(9,10-dihydro-9,10-dioxo-1,4-anthrylene)diimino]bis[(4-chlorophenoxy)benzenesulphonate]","Eye Irrit. 2,",NON-HAZMAT,,,,-
+595,37294-49-8,Disodium C-isodecyl sulphonatosuccinate,Acute Tox. 4,NON-HAZMAT,,,,-
+596,7758-16-9,Disodium dihydrogenpyrophosphate,Eye Irrit. 2,NON-HAZMAT,,,,-
+597,13870-28-5,Disodium disilicate,"Eye Damage 1,
+",NON-HAZMAT,,,,LEHS3
+598,7681-57-4,Disodium disulphite,"Acute Tox. 4,Eye Damage 1",NON-HAZMAT,,,,LEHS3
+599,10163-15-2,Disodium fluorophosphate,"Acute Tox. 4,
+",NON-HAZMAT,,,,-
+600,12392-64-2,Disodium hydrogen bis[3-hydroxy-4-[(2-hydroxy-1-naphthyl)azo]naphthalene-1-sulphonato(3-)]chromate(3-),"Eye Irrit. 2A,
+Skin Sens. 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+601,6408-29-3,"Disodium hydrogen bis[4-[(4,5-dihydro-3-methyl-5-oxo-1-phenyl-1H-pyrazol-4-yl)azo]-3-hydroxynaphthalene-1-sulphonato(3-)]chromate(3-)","Eye Irrit. 2,
+Skin Sens. 1B,
+Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+602,592-35-8, Butyl carbamate,"
+Acute Tox. 4,Eye Damage 1,Muta. 2,Carc. 2",NON-HAZMAT,,,98.5 C,LEHS6
+603,7397-62-8,Butyl glycollate,"
+Eye Damage 1,
+Repr. 2,",NON-HAZMAT,,,,LEHS6
+604,2273-43-0,Butylhydroxyoxostannane,"Aquatic Acute 1,Aquatic Chronic 1
+
+",9el/9es,9,III,,LEHS3
+605,359630-27-6,"C12-14-tert-alkyl ammonium 1-amino-9,10-dihydro-9,10-dioxo-4-(2,4,6-trimethylanilino)-anthracen-2-sulfonate","Eye Damage 1,Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+606,1273322-45-4,C16-18(even numbered)-alkylamine acetate,"Skin Irrit. 2,
+Eye Damage 1,
+Aquatic Acute 1,Aquatic Chronic 1,STOT Rep. Exp. 2",9el/9es,9,III,,LEHS3
+607,1306-25-8,Cadmium telluride,"Acute Tox. 4 , STOT Rep. Exp. 1,
+Aquatic Chronic 3
+",NON-HAZMAT,,,,LEHS6
+608,39961-95-0,"(1R,2R)-cyclohexane-1,2-diamine (2R,3R)-2,3-dihydroxybutanedioic acid","Acute Tox. 4, Skin Irrit. 2, Eye Irrit. 2, STOT Single Exp. 3
+
+
+
+",NON-HAZMAT,,,,-
+609,4057-31-2,"(1R,2R,4S)-1,3,3-trimethylbicyclo[2.2.1]heptan-2-yl acetate",Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+610,102445-69-2,"(1R,2S,10S,11S,14R,15S,17S)-14-acetyl-1-bromo-14,17-dihydroxy-2,15-dimethyltetracyclo[8.7.0.0Ë›,?.0Ä…Ä…,Ä…?]heptadec-6-en-5-one",STOT Rep. Exp. 2,NON-HAZMAT,,,,-
+611,61597-98-6,"(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl (2S)-2-hydroxypropanoate",Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+612,75330-75-5,"(1S,3R,7S,8S,8aR)-8-{2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl (2S)-2-methylbutanoate","
+Skin Sens. 1, 
+Repr. 2,Carc. 2,",NON-HAZMAT,,,,LEHS6
+613,172015-79-1,"
+Name
+EC / List no.
+CAS no.
+ 
+(1S-cis)-4-(2-amino-6-chloro-9H-purin-9-yl)-2-cyclopentene-1-methanol hydrochloride","Acute Tox. 4,Eye Damage 1,Skin Sens. 1,STOT Rep. Exp. 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS6
+614,99290-97-8,"(1Z,3R,4R,5S,6R,9R,10S,11S,12R,13R,15R)-10-[(2,6-dideoxy-3-C-methyl-3-O-methyl-?-L-ribo-hexopyranosyl)oxy]-6-ethyl-4,5-dihydroxy-3,5,9,11,13,15-hexamethyl-12-[[3,4,6-trideoxy-3-(dimethylamino)-?-D-xylo-hexopyranosyl]oxy]- 7,16-Dioxa-2-azabicyclo[11.2.1]hexadec-1-en-8-one","
+Resp. Sens. 1 , Skin Sens. 1 , ",NON-HAZMAT,,,,-
+615,38565-52-5,"(2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl)oxirane","Skin Irrit. 2, Eye Irrit. 2, 
+STOT Single Exp. 3, 
+Aquatic Chronic 3, ",NON-HAZMAT,,,,LEHS3
+616,40220-08-4,"(2,4,6-trioxo-1,3,5-triazine-1,3,5(2H,4H,6H)-triyl)tri-2,1-ethanediyl triacrylate","
+Eye Damage 1,Skin Sens. 1",NON-HAZMAT,,,,LEHS3
+617,3779-63-3,"(2,4,6-trioxotriazine-1,3,5(2H,4H,6H)-triyl)tris(hexamethylene) isocyanate","
+Acute Tox. 4, Skin Sens. 1, STOT Single Exp. 3",NON-HAZMAT,,,,-
+618,73978-41-3,"(2,4-diaminopteridin-6-yl)methanolÂ hydrate hydrochloride","
+Skin Irrit. 2, 
+Eye Irrit. 2,
+STOT Single Exp. 3",NON-HAZMAT,,,,-
+619,62922-45-6,"(2,5-dichloropentyl)ammoniumÂ chloride","
+Skin Irrit. 2, 
+Eye Irrit. 2,
+STOT Single Exp. 3",NON-HAZMAT,,,,-
+620,52490-15-0,(2-butylbenzofuran-3-yl) (4-hydroxyphenyl) ketone,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+621,515-40-2,"(2-chloro-1,1-dimethylethyl)benzene","
+Skin Irrit. 2, 
+Eye Irrit. 2,
+STOT Single Exp. 3",NON-HAZMAT,,,,-
+622,915095-86-2,(2-chloro-5-iodophenyl)(4-fluorophenyl)methanone,"Aquatic Acute 1,Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+623,68298-05-5,"(2-hydroxy-1,1-dimethylethyl)ammoniumÂ toluene-4-sulphonate","
+Acute Tox. 4,Eye Damage 1,",NON-HAZMAT,,,,LEHS3
+624,19223-55-3,(2-hydroxy-3-sulphopropyl)dimethyl[3-[(1-oxododecyl)amino]propyl]ammoniumÂ hydroxide,"Eye Damage 1,",NON-HAZMAT,,,,LEHS3
+625,169115-74-6,(2-hydroxypropyl)carbamicÂ acid; 1-aminopropan-2-ol,"
+Eye Damage 1,",NON-HAZMAT,,,,LEHS3
+626,282102-50-5,"(2-{4-[(1Z)-1,2-diphenylbut-1-en-1-yl]phenoxy}ethyl)dimethylamine; sulfuricÂ acid","Repr. 1A,Muta. 2,
+Carc. 1A,
+STOT Rep. Exp. 1,Aquatic Acute 1,
+Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+627,154581-97-2,(2E)-2-(4-methylbenzylidene)heptanal,"
+Skin Sens. 1B,
+Aquatic Acute 1,
+Aquatic Chronic 2,",9el/9es,9,III,,LEHS3
+628,165184-98-5,(2E)-2-(phenylmethylidene)octanal,"Skin Sens. 1,
+Aquatic Acute 1,Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+629,106185-75-5,"(2E)-2-ethyl-4-(2,2,3-trimethylcyclopent-3-en-1-yl)but-2-en-1-ol","Eye Irrit. 2,Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+630,1122460-01-8,"(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl (ethylamino)(oxo)acetate","
+Skin Irrit. 2,",NON-HAZMAT,,,,-
+631,80473-92-3,"(1R,2S,8S,10S,11S,13R,14R,15S,17S)-1,8-difluoro- 14,17dihydroxy-2,13,15-trimethyl-5-oxotetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-3,6-diene-14-carbothioic S-acid","
+Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+632,211299-54-6,"(1R,3S,7R,8R,10R,13R)-5,5,7,9,9,13-hexamethyl-4,6-dioxatetracyclo[6.5.1.01,10.03,7]tetradecane","
+Skin Irrit. 2,
+Eye Irrit. 2,",NON-HAZMAT,,,,-
+633,54889-63-3,"(1r,4r)-1,4-bis(ethoxymethyl)cyclohexane; (1s,4s)-1,4-bis(ethoxymethyl)cyclohexane","
+Skin Irrit. 2,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+634,187592-70-7,"(1R,4R,5S)-4-(1,1-dichloro-2,2,2-trifluoroethyl)-6,6-dimethyl-3-oxabicyclo[3.1.0]hexan-2-one","
+Acute Tox. 4,",NON-HAZMAT,,,,
+635,73611-02-6,"(1R,4R,5S)-4-hydroxy-6,6-dimethyl-3-oxabicyclo[3.1.0]hexan-2-one","
+Acute Tox. 4,
+Eye Damage 1,
+Skin Sens. 1B,
+Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+636,79200-56-9,"(1R,4S)-2-azabicyclo[2.2.1]hept-5-en-3-one","Acute Tox. 4,Eye Damage 1,Skin Sens. 1",NON-HAZMAT,,,,LEHS3
+637,82543-16-6,"(1R,5R,7S,10R,14S,16S,18S)-5,7-dihydroxy-10,14-dimethylhexacyclo[9.8.0.0Ë›,?.0?,Ä…?.0Ä…?,Ä…?.0Ä…?,Ä…?]nonadecan-15-one","
+Aquatic Chronic 3 ",NON-HAZMAT,,,,LEHS3
+638,35836-72-7,"(1R,5S)-2-(6,6-dimethylbicyclo[3.1.1]hept-2-en-2-yl) ethylÂ acetate","
+Eye Irrit. 2,
+Skin Sens. 1B,
+Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+639,130931-83-8,(1S)-(+)-2-AZABICYCLO[2.2.1]HEPT-5-EN-3-ONE,"
+Skin Irrit. 2,
+Eye Irrit. 2,
+STOT Single Exp. 3,",NON-HAZMAT,,,,-
+640,877397-65-4,"(1S)-1-(2,6-dichloro-3-fluorophenyl)ethan-1-ol","Acute Tox. 4,Eye Damage 1,Skin Sens. 1",NON-HAZMAT,,,,LEHS3
+641,199468-20-7,"2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one (2R,3R)-2,3-dihydroxysuccinate","
+Acute Tox. 4,",NON-HAZMAT,,,,-
+642,33045-53-3,Ethyl 5-sulphamoyl-o-anisate,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+643,68109-88-6,"Ethyl 9,9-dioctyl-4,7,11-trioxo-3,8,10-trioxa-9-stannatetradeca-5,12-dien-14-oate","Skin Irrit. 2
+Eye Irrit. 2
+Repr. 2
+STOT Rep. Exp. 1",NON-HAZMAT,,,89 Â°C,LEHS6
+644,603-52-1,Ethyl diphenylcarbamate,Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+645,106-30-9,Ethyl enantate,"Aquatic Acute 1
+Aquatic Chronic 3",9el/9es,9,III,70.5 Â°C,LEHS3
+646,1013-75-8,Ethyl ethyl(phenyl)carbamate,"Skin Irrit. 2
+Aquatic Chronic 3",NON-HAZMAT,,,128.5 Â°C,LEHS3
+647,60372-77-2,ethyl N2-dodecanoyl-.sc.l.sc.-argininate hydrochloride,"Eye Damage 1
+Aquatic Acute 1",9el/9es,9,III,,LEHS3
+648,106-32-1,Ethyl octanoate,Aquatic Chronic 2,9el/9es,9,III,82 Â°C,LEHS3
+649,84434-11-7,"Ethyl phenyl(2,4,6-trimethylbenzoyl)phosphinate","Skin Sens. 1B
+Aquatic Chronic 2",9el/9es,9,III,144 Â°C,LEHS3
+650,22471-55-2,"Ethyl trans-2,2,6-trimethylcyclohexanecarboxylate","Skin Irrit. 2
+Aquatic Chronic 2
+",9el/9es,9,III,87.8 Â°C,LEHS3
+651,1732-96-3,"Ethylene bis[1,3-dihydro-1,3-dioxoisobenzofuran-5-carboxylate]","Eye Damage 1
+Resp. Sens. 1
+Skin Sens. 1A",NON-HAZMAT,,,,LEHS3
+652,96-49-1,Ethylene carbonate,"Acute Tox. 4
+Eye Irrit. 2
+STOT Rep. Exp. 2",NON-HAZMAT,,,143 Â°C,-
+653,94-49-5,Ethylene dibenzoate,Aquatic Chronic 2,9el/9es,9,III,,LEHS3
+654,97-90-5,Ethylene dimethacrylate,Skin Sens. 1,NON-HAZMAT,,,104 Â°C,-
+655,26316-40-5,"Ethylenediamine, ethoxylated and propoxylated","Eye Irrit. 2
+Skin Sens. 1B
+",NON-HAZMAT,,,,-
+656,25214-63-5,"Ethylenediamine, propoxylated",Eye Irrit. 2,NON-HAZMAT,,,,-
+657,14852-17-6,"Ethylenediamine, salt with phosphoric acid",Skin Sens. 1,NON-HAZMAT,,,,-
+658,5657-17-0,"Ethylenediamine-N,N'-di(acetic acid)","Acute Tox. 4
+Skin Irrit. 2
+Eye Damage 1",NON-HAZMAT,,,,LEHS3
+659,97-53-0,Eugenol,"Eye Irrit. 2
+Skin Sens. 1B",NON-HAZMAT,,,124 Â°C,-
+660,"68648-41-9, 90028-67-4","Evernia furfuracea, ext.","Eye Irrit. 2
+Skin Sens. 1",NON-HAZMAT,,,122 Â°C,-
+661,90028-68-5,"Evernia prunastri, ext.","Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B
+",NON-HAZMAT,,,110.5 Â°C,-
+662,4602-84-0,Farnesol,"Skin Irrit. 2
+Skin Sens. 1B
+Aquatic Acute 1
+Aquatic Chronic 1
+",9el/9es,9,III,150 Â°C,LEHS3
+663,13048-33-4,Hexamethylene diacrylate,"Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+664,85940-94-9,"Hexamethylene diisocyanate, oligomerisation product, blocked with 2-butanone oxime","Skin Irrit. 2
+Skin Sens. 1
+STOT Rep. Exp. 2",NON-HAZMAT,,,,-
+665,162492-01-5,"Hexamethylene diisocyanate, trimers, reaction products with 2-hydroxyethyl acrylate","Skin Sens. 1A 
+Aquatic Chronic 4",NON-HAZMAT,,,,LEHS3
+666,502-44-3,Hexan-6-olide,Eye Irrit. 2,NON-HAZMAT,,,,-
+667,1392411-89-0,"Hexane, 1,6-diisocyanato-, homopolymer, 2-hydroxyethyl acrylate- and propylene glycol monoacrylate-blocked","Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B
+Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+668,54549-24-5,Hexyl D-glucoside,Eye Damage 1,NON-HAZMAT,,,,LEHS3
+669,6259-76-3,Hexyl salicylate,"Skin Sens. 1B
+Aquatic Chronic 1",9el/9es,9,III,151Â Â°C,LEHS3
+670,93-53-8,Hydratropaldehyde,"Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1",NON-HAZMAT,,,,-
+671,64743-00-6,"Hydrocarbon waxes (petroleum), oxidized",Eye Irrit. 2,NON-HAZMAT,,,,-
+672,68602-85-7,"Hydrocarbon waxes (petroleum), oxidized, Me esters",Eye Irrit. 2,NON-HAZMAT,,,,-
+673,91053-01-9,"Hydrocarbons, C4, 1,3-butadiene-free, polymd., triisobutylene fraction","Skin Irrit. 2
+Asp. Tox. 1",NON-HAZMAT,,,,LEHS3
+674,37296-97-2,magnesium sodium fluoride silicate,"
+STOT Rep. Exp. 2",NON-HAZMAT,,,,-
+675,141-82-2,Malonic acid,"
+Eye Damage 1,Eye Irrit. 2",NON-HAZMAT,,,,LEHS3
+676,90-64-2,Mandelic acid,"
+Eye Damage 1",NON-HAZMAT,,,,LEHS3
+677,18718-07-5,Manganese bis(dihydrogen phosphate),"Eye Irrit. 2,
+STOT Rep. Exp. 2",NON-HAZMAT,,,,-
+678,1313-13-9,Manganese dioxide,"
+Acute Tox. 4,STOT Rep. Exp. 1,STOT Rep. Exp. 2",NON-HAZMAT,,,,LEHS6
+679,51349-94-1,Manganese hydrogen phosphate,"Eye Irrit. 2, STOT Rep. Exp. 2",NON-HAZMAT,,,,LEHS3
+680,105-87-3,Geranyl acetate,"Skin Irrit. 2,Skin Sens. 1,Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+681,105-86-2,Geranyl formate,"Skin Sens. 1B,Aquatic Acute 1,Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+682,7440-56-4,Germanium,"Repr. 2,STOT Rep. Exp. 2,Aquatic Acute 1,Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+683,1310-53-8,Germanium dioxide,"Repr. 2,STOT Rep. Exp. 2,Aquatic Acute 1,Aquatic Chronic 3",9el/9es,9,III,,LEHS6
+684,9001-22-3,"Glucosidase, ?-",    Resp. Sens. 1,NON-HAZMAT,,,,-
+685,137010-42-5,glutamyl endopeptidase,"    Acute Tox. 4,    Skin Irrit. 2,Eye Irrit. 2,    Resp. Sens. 1,    STOT Single Exp. 3,    Aquatic Acute 1",9el/9es,9,III,,LEHS3
+686,161074-67-5,"Glutens, hydrolyzates, reaction products with lauroyl chloride, sodium salts","    Skin Irrit. 2,Eye Damage 1,",NON-HAZMAT,,,,LEHS3
+687,52408-84-1,"Glycerol, propoxylated, esters with acrylic acid","    Eye Irrit. 2,    Skin Sens. 1,",NON-HAZMAT,,,,-
+688,162492-10-6,"Glycerol, propoxylated, esters with acrylic acid, reaction products with diethylamine","Eye Damage 1,    Skin Sens. 1A,    Aquatic Chronic 3",NON-HAZMAT,,,,LEHS3
+689,90-05-1,Guaiacol,"    Acute Tox. 4,    Skin Irrit. 2,    Eye Irrit. 2,",NON-HAZMAT,,,,-
+690,5423-22-3,Guanidinium phosphate (1:1),"Acute Tox. 4,",NON-HAZMAT,,,,-
+691,111-70-6,Heptan-1-ol,    Eye Irrit. 2,NON-HAZMAT,,,,-
+692,67762-64-5,"Heptanoic acid, ester with 2-ethyl-2-(hydroxymethyl)-1,3-propanediol pentanoate",    Asp. Tox. 1,NON-HAZMAT,,,,LEHS3
+693,110-44-1,"Hexa-2,4-dienoic acid","Skin Irrit. 2,    Eye Irrit. 2,    STOT Single Exp. 3",NON-HAZMAT,,,,-
+694,12028-48-7,Hexaammonium wolframate,Acute Tox. 4,NON-HAZMAT,,,,-
+695,12767-90-7,Hexaboron dizinc undecaoxide,"    Eye Irrit. 2,    Skin Sens. 1,    Repr. 2,    Aquatic Acute 1,    Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+696,25637-99-4,Hexabromocyclododecane,"Repr. 2,Effect on or via lactation,Aquatic Chronic 1,Aquatic Acute 1",9el/9es,9,III,,LEHS6
+697,1174522-19-0,"Hydrocarbons, C16-C20, n-alkanes, isoalkanes, cyclics,","    Asp. Tox. 1,",NON-HAZMAT,,,,LEHS3
+698,544-76-3,Hexadecane,Asp. Tox. 1,NON-HAZMAT,,,,LEHS3
+699,26952-14-7,Hexadecene,Asp. Tox. 1,NON-HAZMAT,,,,LEHS3
+700,67845-93-6,"Hexadecyl 3,5-bis-tert-butyl-4-hydroxybenzoate",Aquatic Chronic 4,NON-HAZMAT,,,,LEHS3
+701,17593-70-3,Chromium acetate,"Eye Irrit. 2
+Skin Sens. 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+702,12336-95-7,Chromium hydroxide sulphate,"Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1",NON-HAZMAT,,,,-
+703,1066-30-4,Chromium triacetate,Skin Sens. 1B,NON-HAZMAT,,,,-
+704,3444-17-5,Chromium tris((2-ethylhexanoate),Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+705,39380-78-4,chromium(3+) ion disodium hydroxide disulfate,Acute Tox. 4,NON-HAZMAT,,,,-
+706,485-71-2,Cinchonidine,"Acute Tox. 4
+Skin Sens. 1A",NON-HAZMAT,,,234.7Â Â°C,-
+707,118-10-5,Cinchonine,"Acute Tox. 4
+Skin Sens. 1A",NON-HAZMAT,,,234.7Â Â°C,-
+708,104-55-2,Cinnamaldehyde,"Skin Irrit. 2
+Eye Irrit. 2 Skin Sens. 1B",NON-HAZMAT,,,105Â Â°C,
+709,8015-91-6,"Cinnamomum zeylanicum, ext.","Eye Irrit. 2
+Skin Sens. 1
+Muta. 2
+Carc. 1B
+Aquatic Chronic 3",NON-HAZMAT,,,90.3Â Â°C,LEHS6
+710,104-54-1,Cinnamyl alcohol,"Skin Irrit. 2
+Skin Sens. 1",NON-HAZMAT,,,102Â Â°C,-
+711,5392-40-5,Citral,"Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B",NON-HAZMAT,,,98Â Â°C,-
+712,106-23-0,Citronellal,"Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B
+Aquatic Chronic 3",NON-HAZMAT,,,74Â Â°C,LEHS3
+713,106-22-9,Citronellol,"Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B",NON-HAZMAT,,,107Â Â°C,-
+714,150-84-5,Citronellyl acetate,"Skin Irrit. 2
+Aquatic Chronic 2",9el/9es,9,III,93.5Â Â°C,LEHS3
+715,141-16-2,Citronellyl butyrate,"Skin Sens. 1B
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,128Â Â°C,LEHS3
+716,105-85-1,Citronellyl formate,"Skin Irrit. 2
+Skin Sens. 1B",NON-HAZMAT,,,95Â Â°C,-
+717,38083-17-9,Climbazole,"Acute Tox. 4
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+718,7440-48-4,Cobalt,"Acute Tox. 4
+Resp. Sens. 1B
+Resp. Sens. 1B
+Repr. 2
+Carc. 1B
+Aquatic Chronic 4",NON-HAZMAT,,,,LEHS6
+719,513-79-1,Cobalt carbonate,"Acute Tox. 4
+Resp. Sens. 1B
+Skin Sens. 1
+Repr. 1B     Carc. 1B
+Muta. 2
+Carc. 1A
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+720,71-48-7,Cobalt di(acetate),"Acute Tox. 4,Acute Tox. 4,Eye Irrit. 2,Resp. Sens. 1B,Skin Sens. 1A,Repr. 1B,Muta. 2,Car. 1A,STOT Rep. Exp. 2,Carc. 1B,Aquatic Acute 1,Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+721,7646-79-9,Cobalt dichloride,"Acute Tox. 4
+Resp. Sens. 1
+Skin Sens. 1
+Repr. 1B
+Muta. 2
+Carc. 1B
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+722,12016-80-7,Cobalt hydroxide oxide,"Resp. Sens. 1B,Skin Sens. 1,Repr. 1B,Muta. 2,Carc. 1A,STOT Rep. Exp. 2,Aquatic Acute 1,Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+723,12190-79-3,Cobalt lithium dioxide,Repr. 2,NON-HAZMAT,,,,LEHS6
+724,13762-14-6,Cobalt molybdate,"Eye Irrit. 2,Resp. Sens. 1,Skin Sens. 1
+
+Repr. 1B
+Muta. 2
+Carc. 1B
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+725,814-89-1,Cobalt oxalate,"Skin Sens. 1B
+Aquatic Acute 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+726,1307-96-6,Cobalt oxide,"Acute Tox. 4
+Skin Sens. 1
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+727,10026-24-1,Cobalt sulphate,"Acute Tox. 4,Eye Irrit. 2,Resp. Sens. 1B,Skin Sens. 1ARepr. 1B,Muta. 2,Carc. 1A,STOT Rep. Exp. 2,Aquatic Acute 1,Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+728,1317-42-6,Cobalt sulphide,"Resp. Sens. 1,Skin Sens. 1A,Repr. 1A Aquatic Acute 1,Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+729,68186-85-6,Cobalt titanite green spinel,Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+730,68412-74-8,Cobalt zinc silicate blue phenacite,Skin Sens. 1,NON-HAZMAT,,,,-
+731,1560-69-6,Cobalt(2+) propionate,"Acute Tox. 4
+Acute Tox. 4
+Eye Irrit. 2
+Skin Sens. 1A Repr. 2
+Aquatic Acute 1 Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+732,91782-60-4,"Cobalt, borate 2-ethylhexanoate complexes","Acute Tox. 4
+Acute Tox. 4
+Eye Irrit. 2
+Skin Sens. 1A
+Repr. 2
+Aquatic Acute 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+733,68457-13-6,"Cobalt, borate neodecanoate complexes","Acute Tox. 4
+Eye Irrit. 2 Skin Sens. 1
+Repr. 2
+Aquatic Acute 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+734,91782-61-5,"Cobalt, borate propionate complexes","Acute Tox. 4
+Eye Damage 1
+Skin Sens. 1A
+Repr. 2
+Aquatic Acute 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+735,20506-24-5,"Cobaltate(1-), bis[2-(3-chlorophenyl)-2,4-dihydro-4-[[2-hydroxy-5-(methylsulfonyl)phenyl]azo]-5-methyl-3H-pyrazol-3-onato(2-)]-, hydrogen, compd. with [1R-(1?,4a?,10a?)]-1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-1-phenanthrenemethanamine (1:1)","Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+736,75214-72-1,"Cobaltate(3-), bis[4-[4-[[4-[4-[[5-(aminosulfonyl)-2-hydroxyphenyl]azo]-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl]phenyl]azo]-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl]benzenesulfonato(3-)]-, trisodium",Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+737,85049-76-9,"Cobaltate(3-), bis[6-amino-5-[(2-hydroxy-3,5-dinitrophenyl)azo]-1-naphthalenesulfonato(3-)]-, sodium",Aquatic Chronic 3,NON-HAZMAT,,,,LEHS3
+738,179986-09-5,"coconut oil, reaction products with glycerol esters of 3,5-bis(1,1-dimethylethyl)-4-hydroxybenzenepropanoic acid",Aquatic Chronic 4,NON-HAZMAT,,,> 200Â Â°C,LEHS3
+739,144413-22-9,complex reaction mass of Chinese gum rosin post reacted with acrylic acid,Aquatic Chronic 4,NON-HAZMAT,,,,LEHS3
+740,1120-44-1,Copper dioleate,"
+Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B
+Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+741,7681-65-4,Copper iodide,"
+Acute Tox. 4
+Skin Irrit. 2
+Eye Damage 1
+Skin Sens. 1A
+STOT Rep. Exp. 1
+Aquatic Acute 1
+Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+742,1317-38-0,Copper oxide,"Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+743,8008-52-4,"Coriander, ext.","
+Skin Irrit. 2
+Eye Irrit. 2
+Skin Sens. 1B
+Asp. Tox. 1
+Aquatic Chronic 2",9el/9es,9,III,62.5Â Â°C,LEHS3
+744,90640-84-9,"Creosote oil, acenaphthene fraction","
+Skin Irrit. 2
+Skin Sens. 1A
+Asp. Tox. 1
+Muta. 2
+Carc. 1B
+STOT Rep. Exp. 2
+Aquatic Chronic 2",9el/9es,9,III,,LEHS6
+745,60996-20-5,"Cryolite, tripotassium","Acute Tox. 4
+Eye Irrit. 2
+Effect on or via lactation
+STOT Rep. Exp. 1
+Aquatic Chronic 3",NON-HAZMAT,,,,LEHS6
+746,105-08-8,"Cyclohex-1,4-ylenedimethanol","
+Eye Damage 1",NON-HAZMAT,9,III,168Â Â°C,LEHS3
+747,68411-76-7,"Cyclohexane, oxidized, non-volatile residue","
+Eye Damage 1",NON-HAZMAT,,,> 100Â Â°C,LEHS3
+748,2855-27-8,"Cyclohexane-1,2,4-triyltris(ethylene)","
+Skin Irrit. 2
+Skin Sens. 1B
+STOT Single Exp. 3
+Aquatic Chronic 2",9el/9es,9,III,69.5Â Â°C,LEHS3
+749,85-42-7,"Cyclohexane-1,2-dicarboxylic anhydride","
+Eye Damage 1
+Resp. Sens. 1 Skin Sens. 1",NON-HAZMAT,,,152Â Â°C,LEHS3
+750,1076-97-7,"Cyclohexane-1,4-dicarboxylic acid",Eye Irrit. 2,NON-HAZMAT,,,225Â Â°C,-
+751,25485-88-5,cyclohexyl 2-hydroxybenzoate,Aquatic Chronic 2,9el/9es,9,III,150Â Â°C,LEHS3
+752,101-43-9,Cyclohexyl methacrylate,"
+Skin Irrit. 2
+Eye Irrit. 2
+STOT Single Exp. 3",NON-HAZMAT,,,81Â Â°C,-
+753,827-52-1,Cyclohexylbenzene,"Asp. Tox. 1
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,95Â°C,LEHS3
+754,17865-32-6,Cyclohexyldimethoxymethylsilane,"
+Skin Irrit. 2
+Aquatic Chronic 2",9el/9es,9,III,72Â Â°C,LEHS3
+755,923604-58-4,"(1R,4R,6S,7Z,15R,17R)-17-({7-methoxy-8-methyl-2-[4-(propan-2-yl)-1,3-thiazol-2-yl]quinolin-4-yl}oxy)-13-methyl-2,14-dioxo-3,13-diazatricyclo[13.3.0.0^{4,6}]octadec-7-ene-4-carboxylic acid","
+Acute Tox. 4",NON-HAZMAT,,,,-
+756,91771-61-8,"Cymbopogon winterianus, ext.","
+Acute Tox. 4
+Eye Damage 1
+Skin Sens. 1
+Asp. Tox. 1
+Aquatic Chronic 2",9el/9es,9,III,78Â Â°C,LEHS3
+757,94333-72-9,"Cymbopogon winterianus, ext., reaction products with acetone","
+Acute Tox. 4
+Skin Sens. 1B
+Aquatic Chronic 3",NON-HAZMAT,,,74Â Â°C,LEHS3
+758,18472-51-0,"D-gluconic acid, compound with N,N''-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediamidine (2:1)","
+Eye Damage 1
+Aquatic Acute 1
+Aquatic Chronic 1",9el/9es,9,III,,LEHS3
+759,157707-87-4,"D-Glucopyranose, oligomers, branched and linear C9-11-alkyl glycosides","
+Skin Irrit. 2
+Eye Damage 1",NON-HAZMAT,,,,LEHS3
+760,80-08-0,Dapsone,Acute Tox. 4,NON-HAZMAT,,,,
+761,68649-11-6,"Dec-1-ene, dimers, hydrogenated","
+Acute Tox. 4
+Asp. Tox. 1",NON-HAZMAT,,,160Â Â°C,LEHS3
+762,157707-86-3,"Dec-1-ene, trimers, hydrogenated","
+Asp. Tox. 1",NON-HAZMAT,,,160Â Â°C,LEHS3
+763,58096-47-2,"Decahydro-1,1,7-trimethyl-3a,7-methano-3aH-cyclopentacyclooct-3-yl formate",Aquatic Chronic 2,9el/9es,9,III,152.2Â Â°C,LEHS3
+764,10519-11-6,Decahydro-2-naphthyl acetate,Aquatic Chronic 2,9el/9es,9,III,120.5Â Â°C,LEHS3
+765,7757-79-1,Potassium nitrate,Oxid. Solid 3,UN1486 ,5.1,III,,LEHS3
+766,7705-08-0,Ferric chloride,"Met. Corr. 1,Acute Tox. 4,Skin Irrit. 2,eye 1",UN1773,8,III,,LEHS3
+767,76-22-2,Camphor,"Flam.sol 2,Acute Tox. 4,Skin Irrit. 2,Eye Damage 1,STOT Single Exp. 2,",UN2717,4.1,III,,LEHS6
+768,91-20-3,Naphthalene,"Flam.sol 2,Acute Tox. 4,Carc. 2,Aq acute 1, Aq chronic 1",UN1334,4.1,III,,LEHS6
+769,8006-64-2,Turpentine,Flam.liq,UN1299,3,III,,LEHS3
+770,9005-38-3Â ,SODIUM ALGINATE,NON-HAZMAT,NON-HAZMAT,,,,
+771,6153-56-6,Oxalic acid,"Acute toxicity oral 4,Acute toxicity Dermal 4,Serious eye dam 1",NON-HAZMAT,,,,LEHS3
+772,7732-18-5,Distilled water,NON-HAZMAT,NON-HAZMAT,,,,
+773,50-81-7,Ascorbic acid,NON-HAZMAT,NON-HAZMAT,,,,
+774,1330-20-7,xylene,"Flam. Liq. 3,Acute Tox. 4  oral,skin irr 2,Acute Tox. 4 dermal",UN1307,3,III,,LEHS3
+775,7439-97-6,Mercury,"Acute Tox. 2,STOT RE 1,Aquatic Acute 1,Aquatic Chronic 1,Repr. 1B",UN2809,8 (6.1),III,,LEHS6
+776,7727-43-7,Barium Sulphate,NON-HAZMAT,NON-HAZMAT,,,,
+777,7772-98-7,Sodium thiosulphate,NON-HAZMAT,NON-HAZMAT,,,,
+778,532-32-1,Sodium benzoate,Eye Irrit. 2A,NON-HAZMAT,,,,-
+779,7681-57-4,Sodium metabisulphite,"Acute Tox. 4,Eye Dam. 1",NON-HAZMAT,,,,LEHS3
+780,13755-29-8,Sodium Tetrafluoroborate,"Skin Corr. 1,Eye Damage 1",UN1759,8,II,,LEHS3
+781,1303-96-4,Sodium tetraborate decahydrate,NON-HAZMAT,NON-HAZMAT,,,,
+782,1330-43-4,Borax,"Eye Irrit. 2,Repr. 1B",NON-HAZMAT,,,,LEHS6
+783,50-00-0,Formaldehyde,"Acute Tox. 3oral & dermal,Skin Corr. 1B,Skin Sens. 1,Acute Tox. 3 inh,Muta. 2,Carc. 1B",UN2209,8,III,,LEHS6
+784,7727-43-7,barium sulfate,NON-HAZMAT,NON-HAZMAT,,,,
+785,7761-88-8,Silver nitrate,"Ox. Sol. 2,Skin Corr. 1B,Aquatic Acute 1,Aquatic Chronic 1",UN1493,5.1,II,,LEHS3
+786,1344-28-1,Aluminum oxide,NON-HAZMAT,NON-HAZMAT,,,,
+787,16712-20-2,Lithium chloride,"Acute Tox. 4,Eye irr. 2,Skin Irrit. 2",NON-HAZMAT,,,,-
+788,7778-80-5,Potassium sulphate,Eye Irrit. 1,NON-HAZMAT,,,,LEHS3
+789,10043-01-3,Aluminium sulphate,"Corrosive to metals 1,Serious eye damage 1",UN3260,8,III,,LEHS3
+790,86-87-3,Naphthylacetic acid,"Acute toxicity, Category 4, Oral, eye irr 2",NON-HAZMAT,,,,-
+791,9000-59-3,Shellac wax,NON-HAZMAT,NON-HAZMAT,,,,
+792,11138-66-2,Xanthum gum,NON-HAZMAT,NON-HAZMAT,,,,
+793,9004-35-7,Cellulose acetate,NON-HAZMAT,NON-HAZMAT,,,,
+794,9004-32-4,Sodium carboxy methyl cellulose,NON-HAZMAT,NON-HAZMAT,,,,
+795,3458-28-4,D-Mannose,NON-HAZMAT,NON-HAZMAT,,,,
+796,127-09-3,sodium acetate,NON-HAZMAT,NON-HAZMAT,,,,
+797,3458-72-8,ammonium citrate,NON-HAZMAT,NON-HAZMAT,,,,
+798,10043-01-3,Aluminium sulphate,"Corrosive to metals 1,Serious eye damage 1",UN3260,8,III,,LEHS3
+799,548-62-9,Crystal violet stain solution,"Acute Tox. 4, Eye Damage 1, Carc. 2, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,NA,LEHS6
+800,7758-98-7,Copper sulphate solution,"Acute Tox. 4, Eye Damage 1, Aquatic Acute 1,Aquatic Chronic 1",9el/9es,9,III,NA,LEHS3
+801,9/5/89,Ammonium dichromate,"Oxid. Solid 2, Acute Tox. 3, Acute Tox. 4, Acute Tox. 2, Skin Corr. 1B, Resp. Sens. 1, Skin Sens. 1,Repr. 1B, Muta. 1B, Carc. 1B, STOT Rep. Exp.1,Aquatic Chronic 1",UN 1439,5.1,II,NA,LEHS6
+802,6363-53-7,Maltose monohydrate,Non-Hazmat,Non-Hazmat,,,,
+803,1318-02-1,Zeolite powder,Non-Hazmat,Non-Hazmat,,,,
+804,1787-61-7Â ,Erichrome black T indicator,Non-Hazmat,Non-Hazmat,,,,
+805,4/7/03,Sodium poly acrylaylate,Non-Hazmat,Non-Hazmat,,,,
+806,1313-27-5,Molybdenum trioxide,"
+Eye Irrit. 2, Carc. 2, STOT Single Exp. 3, ",Non-Hazmat,,,,LEHS6
+807,Â 9005-84-9,Starch indicator,Non-Hazmat,Non-Hazmat,,,,
+808,50-81-7,Ascorbic acid (vitamin c) powder,Non-Hazmat,Non-Hazmat,,,,
+809,7783-83-7,Ammonium ferric sulphate,Non-Hazmat,Non-Hazmat,,,,
+810,60-29-7,Ether  anesthetic,"Flam. Liquid 1, Acute Tox. 4, STOT Single Exp. 3",UN 1155,3,I,-40 Â°C,LEHS3
+811,8023-70-9,Lycopodium powder,Flammable solid,UN 1325,4.1,II,,LEHS3
+812,548-62-9.,Gentian Violet Aqueous Stain Solution 125 ML CAS No:548-62-9,"Acute Tox. 4, Eye Damage 1, Carc. 2, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+813,7779-88-6,Zinc nitrate,"Oxid. Solid 2, Acute Tox. 4, Skin Irrit. 2, Eye Damage 1, STOT Single Exp. 3, Aquatic Acute 1,Aquatic Chronic 2",UN 1514,5.1,II,,LEHS3
+814,557-34-6,Zinc acetate,"Acute Tox. 4, Eye Damage 1, Aquatic Chronic 2",9el/9es,9,III,,LEHS3
+815,557-04-0,Magnesium stearate,Non-Hazmat,Non-Hazmat,,,,
+816,128-44-9,Sodium saccharine,Non-Hazmat,Non-Hazmat,,,,
+817,65-85-0,Benzoic acid,"Skin Irrit. 2, Eye Damage 1, STOT Rep. Exp. 1, ",Non-Hazmat,,,,LEHS6
+818,1318-02-1,Zeolite,Non-Hazmat,Non-Hazmat,,,,
+819,7778-54-3,Calcium hypochlorite,"
+Oxid. Solid 2, Acute Tox. 4, Skin Corr. 1B, Aquatic Acute 1",UN1748,5.1,II,,LEHS3
+820,10099-74-8,Lead nitrate,Ox. Sol. 2; Acute Tox. 4; Eye Dam. 1; Repr. 1A; STOT RE 2; Aquatic Acute 1; Aquatic Chronic 1,UN 1469,5.1 (6.1),II,,LEHS6
+821,9002-13-5,Urease powder,Skin Irrit. 2; Eye Irrit. 2; Resp. Sens. 1; STOT SE 3,Non-Hazmat,,,,-
+822,9000-90-2,Alpha amylase,Resp. Sens. 1,Non-Hazmat,,,,-
+823,2/3/58,Potassium bromide,Eye Irrit. 2,Non-Hazmat,,,,-
+824,63449-41-2,Benzalkonium chloride solution,"Acute Tox. 4; Acute Tox. 4, Skin Corr. 1B; Aquatic Acute 1",UN 3261,8,II,NA,LEHS3
+825,76-59-5,Bromothymol blue indicator,Non-Hazmat,Non-Hazmat,,,,
+826,7757-82-6,Sodium sulfate,Non-Hazmat,Non-Hazmat,,,,
+827,10042-76-9,Strontium nitrate,"Oxid. Solid 1, Eye Damage 1",UN 1507,5.1,III,NA,LEHS3
+828,59-67-6,Nicotine acid,Eye Irrit. 2,Non-Hazmat,,,,-
+829,7758-29-4,Sodium tripolyphosphate,Non-Hazmat,Non-Hazmat,,,,
+830,31566-31-1,Glycerol mono stearate,Non-Hazmat,Non-Hazmat,,,,
+831,10124-56-8,Sodium hexametaphosphate,Non-Hazmat,Non-Hazmat,,,,
+832,1345-04-6,Antimony sulphide black,"Carc. 2, STOT Rep. Exp. 2",Non-Hazmat,,,,LEHS6
+833,15708-41-5,Ferrous EDTA,Non-Hazmat,Non-Hazmat,,,,LEHS3
+834,8012-95-1,Liquid paraffin,"Asp. Tox. 1, Aquatic Chronic 4",Non-Hazmat,,,,
+835,62-56-6,Thiourea,"Acute Tox. 4, Repr. 2, Carc. 2, Aquatic Chronic 2","9el/9es
+",9,III,NA,LEHS6
+836,9004-62-0,Hydroxyl ethyl cellulose,Non-Hazmat,Non-Hazmat,,,,
+837,10025-70-4,Strontium chloride,Eye Damage 1,Non-Hazmat,,,,LEHS3
+838,Â 57-13-6,Urea,Non-Hazmat,Non-Hazmat,,,,
+839,1317-36-8,Lead oxide,"Acute Tox. 4, Acute Tox. 4, Repr. 1A, Carc. 2,STOTRep. Exp. 1, Aquatic Acute 1, Aquatic Chronic 1",UN 3077,9,III,,LEHS6
+840,7788-99-0,Alum chrome,"
+Skin Irrit. 2, Eye Irrit. 2, ",Non-Hazmat,,,,-
+841,636-61-3,Malic acid,Non-Hazmat,Non-Hazmat,,,,LEHS3
+842,110-17-8,Fumaric acid,Non-Hazmat,Non-Hazmat,,,,-
+843,16731-55-8,Potassium meta bisulphite,Eye Damage 1,Non-Hazmat,,,,LEHS3
+844,9012-36-6,ELECTROPHORESIS CAS No:9012-36-6,Non-Hazmat,Non-Hazmat,,,,
+845,124-13-0,Defoamer,"Flam. Liquid 3, Skin Irrit. 2, Eye Irrit. 2, Aquatic Chronic 2",UN 1191,3,III,,LEHS3
+846,6834-92-0,Sodium meta silicate,"Met. Corr. 1, Skin Corr. 1B, Eye Damage 1",UN 3253,8,III,,LEHS3
+847,76-59-5,Bromothymol blue indicator,Non-Hazmat,Non-Hazmat,,,,
+848,9005-38-3,Sodium alginate,Non-Hazmat,Non-Hazmat,,,,
+849,636-61-3,Malic acid,Non-Hazmat,Non-Hazmat,,,,LEHS3
+850,9002-18-0,Agar agar powder,Non-Hazmat,Non-Hazmat,,,,
+851,4/7/03,Sodium  polyacrylate,Non-Hazmat,Non-Hazmat,,,,
+852,Â 7782-63-0,Ferrous sulphate,"Acute Tox. 4, Skin Irrit. 2,Eye Irrit. 2, Aquatic Chronic 3",Non-Hazmat,,,,LEHS3
+853,1390-65-4,Carmine powder,Non-Hazmat,Non-Hazmat,,,,
+854,9004-34-6,Cellulose powder,Non-Hazmat,Non-Hazmat,,,,
+855,4075-81-4,Calcium propionate,Eye Damage 1,Non-Hazmat,,,,LEHS3
+856,547-58-0,Methyl orange solution,Acute Tox. 3,UN 3143,6.1,III,,LEHS6
+857,513-77-9,Barium carbonate,Acute Tox. 4,Non-Hazmat,,,,-
+858,814-80-2,Calcium lactate,Eye Irrit. 2,Non-Hazmat,,,,-
+859,866-83-1,Potassium citrate,"WaterÂ React. Flam. Gas 1, 
+Skin Corr. 1B, Eye Damage 1",UN 2257,4.3,I,NA,LEHS6
+860,7440-50-8,Copper powder,Non-Hazmat,Non-Hazmat,,,,
+861,149-91-7,Gallic acid,Non-Hazmat,Non-Hazmat,,,,
+862,68-12-2,Dimethyl formamide,"Flam. Liquid 3, Acute Tox. 4, Acute Tox. 4, Eye Irrit. 2, Repr. 1B, ",UN 2265 ,3, III,57.5Â Â°C,LEHS6
+863,9004-62-0,hydroxyl ethyl cellulose,Non-Hazmat,Non-Hazmat,,,,
+864,7757-93-9,di calcium phosphate,Non-Hazmat,Non-Hazmat,,,,
+865,114460-21-8,calcium acetate,Non-Hazmat,Non-Hazmat,,,,
+866,65-85-0Â ,benzoic acid,"Skin Irrit. 2, Eye Damage 1,STOT Rep. Exp. 1",Non-Hazmat,,,,LEHS6
+867,108-19-0,biuret reagent,Non-Hazmat,Non-Hazmat,,,,
+868,7723-14-0,phosphorous red,"Pyr. Solid 1, Acute Tox. 1, Acute Tox. 2, Skin Corr. 1A, Aquatic Acute 1",UN 1381,4.2,,,LEHS6
+869,548-62-9,crystal gentian violet,"Acute Tox. 4, Eye Damage 1, Carc. 2, Aquatic Acute 1, Aquatic Chronic 1",9el/9es,9,III,,LEHS6
+870,7727-43-7,barium sulphate,Non-Hazmat,Non-Hazmat,,,,
+871,546-93-0,magnesium carbonate,Non-Hazmat,Non-Hazmat,,,,
+872,85-86-9,sudan III  stain solution,Non-Hazmat,Non-Hazmat,,,,
+873,60-27-5,creatinine,Non-Hazmat,Non-Hazmat,,,,
+874,1/4/03,carbopol,"Acute Tox. 4, Eye Damage 1,STOT Single Exp. 3,Aquatic Acute 1, Aquatic Chronic 2",9es,9,III,,LEHS3
+875,3458-72-8,ammonium citrate,Non-Hazmat,Non-Hazmat,,,,
+876,7601-54-9,trisodium phosphate,"
+Skin Irrit. 2, Eye Irrit. 2, STOT Single Exp. 3, ",Non-Hazmat,,,,-
+877,142-03-0,aluminium acetate,"Eye Damage 1,Aquatic Chronic 2",9el/9es,,,,LEHS3
+878,31566-31-1,glycerol monostearate,Non-Hazmat,Non-Hazmat,,,,
+879,7789-00-6,potassium chromate,Acute Tox. 3; Skin Irrit. 2; Eye Irrit. 2; Skin Sens. 1; Muta. 1B; Carc. 1B; STOT SE 3; Aquatic Acute 1; Aquatic Chronic 1,UN3288,6.1,II,,LEHS6
+880,1305-78-8,calcium oxide powder,"
+Skin Irrit. 2, Eye Damage 1, STOT Single Exp. 3",Non-Hazmat,,,,LEHS3
+881,3458-72-8,ammonium citrate,Non-Hazmat,Non-Hazmat,,,,
+882,9001-73-4,papain enzyme,Non-Hazmat,Non-Hazmat,,,,-
+883,9005-38-3,sodium alginate,Non-Hazmat,Non-Hazmat,,,,
+884,75-47-8,Iodoform,Acute Tox. 4; Acute Tox.3; Acute Tox. 4; Skin Irrit.2; Eye Irrit. 2; STOT SE 3;,Non-Hazmat,,,,
+885,304-59-6,Potassium tartarate,Non-Hazmat,Non-Hazmat,,,,
+887,7720-78-7,Ferrous sulphate,"Acute Tox. 4,Skin Irrit. 2,Eye Irrit. 2,Aquatic Chronic 3",Non-Hazmat,,,,LEHS3
+888,Â 71-43-2,Benzene,"
+Flam. Liquid 2, Skin Irrit. 2, Eye Irrit. 2, Asp. Tox.1, Muta. 1B, Carc. 1A, STOT Rep. Exp. 1",UN1114,3,II,-11Â Â°C,LEHS6
+889,Â 7727-43-7,Barytes,Non-Hazmat,Non-Hazmat,,,,
+890,5949-29-1,Citric acid monohydrate,Non-Hazmat,Non-Hazmat,,,,-
+891,16893-85-9,Sodium silico fluoride,"Acute Tox. 3, Acute Tox. 3, Acute Tox. 3, ",UN2674,6.1,III,,LEHS6
+892,Â 77-09-8,Phenolphthalein,"
+Repr. 2, Muta. 2, Carc. 1B, ",Non-Hazmat,,,,LEHS6
+893,61-73-4,Methylene blue alkaline,Non-Hazmat,Non-Hazmat,,,,
+894,51811-82-6,Giesma stain,Non-Hazmat,Non-Hazmat,,,,
+895,51395-97-2,Haggers reagent,Non-Hazmat,Non-Hazmat,,,,
+896,333-20-0,Potassium thiocyanate,"Acute Tox. 4, Acute Tox. 4, Acute Tox. 4, Eye Damage 1, Aquatic Chronic 3",non-Hazmat,,,,LEHS3
+897,11/1/47,Magosteen extract,Acute Tox. 4,Non-Hazmat,,,,LEHS6
+898,7601-54-9,Trisodium phosphate,"
+Skin Irrit. 2, Eye Irrit. 2, STOT Single Exp. 3",Non-Hazmat,,,,-
+899,8015-86-9,Carnauba wax,Non-Hazmat,Non-Hazmat,,,,
+900,10043-01-3,Aluminium sulphate,"Met. Corr. 1, Eye Damage 1",UN3260,8,III,,LEHS3
+901,1390-65-4,Aceto carmine,Non-Hazmat,Non-Hazmat,,,,
+902,7727-43-7,Barium sulphate,Non-Hazmat,Non-Hazmat,,,,
+903,7778-18-9,Calcium sulphate,Non-Hazmat,Non-Hazmat,,,,
+904,10124-56-8,Sodium hexa meta phosphate,Non-Hazmat,Non-Hazmat,,,,
+905,4075-81-4,Calcium propionate,Eye Damage 1,Non-Hazmat,,,,LEHS3
+906,7699-45-8,Zinc bromide,"Acute Tox. 4, Skin Corr. 1B, Skin Sens. 1, Aquatic Chronic 2",UN1760,8,II,,LEHS3
+907,68-04-2,Trisodium citrate,Non-Hazmat,Non-Hazmat,,,,
+908,299-28-5,Calcium gluconate,Non-Hazmat,Non-Hazmat,,,,
+909,1762-95-4,Ammonium thiocyanate,"Acute Tox. 4, Acute Tox. 4, Acute Tox. 4,Eye Damage 1, Aquatic Chronic 3",Non-Hazmat,,,,LEHS3
+910,133-32-4,INDOLE-3-BUTYRIC ACID,Acute Tox. 3; Aquatic Chronic 3,UN 2811,6.1,III,,LEHS6
+911,95-45-4,Dimethylglyoxime,Flammable solids,UN  1325,4.1,III,,LEHS3
+912,56-23-5,Carbon tetrachloride,"
+Acute Tox. 3, Acute Tox. 3, Acute Tox. 3, Carc. 2, STOT Rep. Exp. 1, Aquatic Chronic 3",UN 1846,6.1,II,,LEHS6
+913,8009--3-8,Petroleum jelly,Non-Hazmat,Non-Hazmat,,,,
+914,2/3/58,Potassium bromide,"
+Eye Irrit. 2",Non-Hazmat,,,,-
+915,84-66-2,Diethyl phthalate,Non-Hazmat,Non-Hazmat,,,,
+916,8032-32-4,Petroleum ether,"
+Flam. Liquid 2, Skin Irrit. 2, Asp. Tox. 1, Muta. 1B, Carc. 1B, STOT Single Exp. 3, Aquatic Chronic 2",UN 1268,3,I/II/III,< -40Â°C,LEHS6
+917,128-37-0,Butylated hydroxyl toluene,"Aquatic Acute 1, Aquatic Chronic 1",9es,9,III,,LEHS3
+918,7775-14-6,Sodium dithionite,"
+Self Heat. 1, Acute Tox. 4, Eye Irrit. 2, ",UN 1384,4.2,II,,LEHS6
+919,7772-99-8,Stannous chloride,"
+Met. Corr. 1, Acute Tox. 4, Acute Tox. 4, SkinCorr. 1B, Eye Irrit. 2, Skin Sens. 1, STOT Single Exp. 3,STOT Rep. Exp. 2, Aquatic Chronic 3",UN 3260,8,III,,LEHS3
+920,584-08-7,Potassium carbonate,"
+Skin Irrit. 2, Eye Irrit. 2, STOT Single Exp. 3, ",Non-Hazmat,,,,-
+921,68-04-2,Sodium citrate,Non-Hazmat,Non-Hazmat,,,,
+922,17194-00-2,Barium hydroxide,Acute Tox. 4; Skin Corr. 1A; Eye Dam. 1,UN 3262,8,II,,LEHS3
+923,142-47-2,Sodium glutamate,Non-Hazmat,Non-Hazmat,,,,
+924,9003-20-7,Polyvinyl acetate,Non-Hazmat,Non-Hazmat,,,,
+925,8007-47-4,Canada balsam,Non-Hazmat,Non-Hazmat,,,,
+926,58-08-2,Caffeine aNon-Hazmatydrous,Acute Tox. 4,Non-Hazmat,,,,-
+927,10043-67-1,Alum powder,Non-Hazmat,Non-Hazmat,,,,
+928,42424-50-0, Normal saline solution,Non-Hazmat,Non-Hazmat,,,,
+929,97-53-0,Eugenol,"
+Eye Irrit. 2, Skin Sens. 1B, Asp. Tox. 1, ",Non-Hazmat,,,,LEHS3
+930,8000-27-9, Cederwood oil,"Skin Irrit. 2, Skin Sens. 1B, Asp. Tox. 1,Aquatic Chronic 2",9el/9es,9,,,LEHS3
+931,1303-96-4,Sodium tetraborate,Non-Hazmat,Non-Hazmat,,,,LEHS6
+932,98-95-3,Nitrobenzene,"Acute Tox. 3, Acute Tox. 3, Acute Tox. 3, Repr. 1B, Carc. 2, STOT Rep. Exp. 1, Aquatic Chronic 3",UN 1662,6.1,II,,LEHS6
+933,2437-29-8,Malachite green,Acute Tox. 3; Eye Dam. 1;Repr. 2; Aquatic Acute 1;Aquatic Chronic 1,UN 2811,6.1,III,,LEHS6
+934,Â 106-46-7,Para dichloro benzene,"Eye Irrit. 2, Carc. 2, Aquatic Acute 1,Aquatic Chronic 1",UN3077,9,III,,LEHS6
+935,108-46-3,Resorcinol solution,"
+Acute Tox. 4, Skin Irrit. 2, Eye Damage 1, Skin Sens. 1B, STOT Single Exp. 1, STOT Single Exp. 2, Aquatic Acute 1, Aquatic Chronic 3",UN 2876,6.1,III,,LEHS6
+936,409-21-2,Silicon carbide,Non-Hazmat,Non-Hazmat,,,,
+937,14808-60-7,Ball clay,Non-Hazmat,Non-Hazmat,,,,
+938,7758-11-4.,Di-potassium hydrogen orthophosphate 7758-11-4.,Non-Hazmat,Non-Hazmat,,,,
+939,1/2/58,Potassium bromate,"
+Oxid. Solid 2, 
+Acute Tox. 3, 
+Carc. 1B",UN 1484,5.1,II,NA,LEHS6
+940,125-20-2,Thymolpthalein indicator,Non-Hazmat,Non-Hazmat,,,,
+941,1330-20-7,Xylene,"Flam. Liquid 3, Acute Tox. 4, Acute Tox. 4, Skin Irrit. 2, Eye Irrit. 2, Asp. Tox. 1, STOT Single Exp. 3, STOT Rep. Exp. 2, Aquatic Chronic 3",UN  1307,3,III,25 Â°C,LEHS3
+942,6131-90-4,Sodium acetate trihydrate,Non-Hazmat,Non-Hazmat,,,,
+943,6131-90-4,Toluene rectified 108-88-3,Flam. Liq. 2; Skin Irrit. 2;Repr. 2; STOT SE 3; STOTRE 2; Asp. Tox. 1,UN 1294 ,3,II,"4,0 Â°C",LEHS3
+944,17372-87-1,Eosin stain,"Eye Irrit. 2, Skin Sens. 1",Non-Hazmat,,,,-
+945,587-98-4,Metanil yellow,"Skin Sens. 1, Repr. 2, Aquatic Chronic 2",9el/9es,9,,,LEHS6
+946,108-10-1,Iso-butyl methyl ketone,"Flam. Liquid 2, Acute Tox. 4, Eye Irrit. 2, STOT Single Exp. 3, ",UN 1245,3,II,15Â°C and 23ÅŸC,LEHS3
+947,1309-38-2,Black oxide,Non-Hazmat,Non-Hazmat,,,,
+948,61789-92-2,Mastic Gum,Non-Hazmat,Non-Hazmat,,,,
+949,144-55-8,Baking soda,NON-HAZMAT,NON-HAZMAT,-,,-,-
+950,5329-14-6,SULFAMIC ACID,"skin2, eye2, Aq ch3",UN2967,8,III,,LEHS3
+951,14960-06-6,"ÃŸ-Alanine,N-(2-carboxyethyl)-N-dodecyl-,sodium",Non-Hazmat,NA,NA,NA,246,LEHS3
+952,13463-41-7,Pyrithione zinc,Hazmat,2811,6.1,III,NA,LEHS6
+953,98-11-3,Benzenesulfonic acid,Acute Tox. 4 - H302; Skin Corr. 1B - H314,2585,8,III,104,LEHS3
+954,10236-47-2,Naringin,Non-Hazmat,Non-hazmat,NA,NA,NA,NA
+955,62-44-2,Phenacetin,Non-hazmat,Non-hazmat,NA ,NA,NA,LEHS6
+956,886-50-0,Terbutryn ,Non-hazmat,Non-hazmat,Non-hazmat,NA,NA,LEHS3
+957,7681-38-1,sodium hydrogen sulfate,Non-hazmat,Non-hazmat,NA,NA,NA,LEHS3
+958,101-02-0,Triphenyl phosphite,Skin Irrit. 2 - H315; Eye Irrit. 2 - H319; Aquatic Acute 1 - H400; Aquatic Chronic 1 - H410,UN 3082/3077,9,III,172,LEHS3
+959,64742-94-5,"Solvent naphtha (petroleum), heavy arom",Asp. Tox. 1 - H304,Non-hazmat,NA,NA,NA,LEHS3
+960,112-05-0,Nonanoic acid,"Skin Irrit. 2 - H315, Eye Irrit. 2 - H319, Aquatic Chronic 3 - H412",Non-hazmat,NA,NA,137,LEHS3
+961,127-18-4,tetrachloroethylene,"Carc. 2 - H351, Aquatic Chronic 2 - H411",Non-hazmat,NA,NA,NA,LEHS6
+962,68002-61-9,"Quaternary ammonium compounds, (C16-18 and C18-unsatd. alkyl)trimethyl, chlorides","Acute Tox. 4 - H302, Skin Corr. 1C - H314, Eye Dam. 1 - H318, Aquatic Acute 1 - H400, Aquatic Chronic 1 - H410",2924,3(8),III,NA,LEHS3
+963,90-72-2,"2,4,6-tris(dimethylaminomethyl)phenol",Acute Tox. 4 - H302; Skin Irrit. 2 - H315; Eye Irrit. 2 - H319,Non-hazmat,NA,NA,149,NA
+965,1305-78-8,calcium oxide ,"
+Skin Irrit. 2, Eye Damage 1, STOT Single Exp. 3",1910,8,III,NA,LEHS3
