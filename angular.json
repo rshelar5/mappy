@@ -28,7 +28,15 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/manifest.json",
+              "src/options.html",
+              "src/background.js",
+              "src/images",
+              "src/options.js",
+              "src/button.css",
+              "src/popup.js",
+              "src/popup.html"
             ],
             "styles": [
               "src/styles.scss"
