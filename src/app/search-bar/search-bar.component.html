@@ -1,8 +1,6 @@
 <div class="search-bar-container">
 <div class="button-container">
-  <button class="search-button" mat-raised-button > Ingredients</button>
-  <button class="search-button" mat-raised-button>Pure Ing.</button>
-  <button class="search-button" mat-raised-button>Essential Oil</button>
+  <button class="search-button" *ngFor="let buttonTitle of buttonTitles" mat-flat-button >{{buttonTitle}}</button>
 </div>
 <mat-form-field class="search-field" style="padding: 10px; color: white;">
   <mat-label>Search</mat-label>

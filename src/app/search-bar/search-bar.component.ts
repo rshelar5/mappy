@@ -9,6 +9,8 @@ export class SearchBarComponent implements OnInit {
 
   constructor() { }
 
+  buttonTitles = ["Ingredients","Pure Ing.","Essential Oil"];
+
   ngOnInit(): void {
   }
 
