@@ -1,0 +1,30 @@
+.search-bar-container {
+  background-color: black;
+  border-bottom: solid white;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.button-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: center;
+  flex: 1 1 50px;
+}
+
+
+.search-bar {
+  width: 100%;
+}
+.search-box {
+  background-color: white;
+  display: flex;
+}
+.search-button {
+height: 33px;
+width: 90px;
+font-family: sans-serif;
+font-size: x-small;
+}
