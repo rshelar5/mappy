@@ -1,8 +1,16 @@
 <div class="search-bar-container">
 <div class="button-container">
-  <button class="search-button" mat-raised-button> Ingredients</button>
+  <button class="search-button" mat-raised-button > Ingredients</button>
   <button class="search-button" mat-raised-button>Pure Ing.</button>
   <button class="search-button" mat-raised-button>Essential Oil</button>
 </div>
-<input type="text" class="search-bar">
+<mat-form-field class="search-field" style="padding: 10px; color: white;">
+  <mat-label>Search</mat-label>
+  <mat-icon matPrefix (click)="search()">search</mat-icon>
+  <input type="text" matInput placeholder="Search" style="color: white; padding: 5px;">
+  <mat-icon matSuffix (click)="cleanSearchBox()">close</mat-icon>
+</mat-form-field>
+
+
 </div>
+

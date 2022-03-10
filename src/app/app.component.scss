@@ -1,9 +1,10 @@
 .container{
-  border: 0.5rem solid green;
+  //border: 0.5rem solid green;
   min-height: 700px;
   width: 300px;
   margin: auto;
   display: flex;
   flex-direction: column;
   align-content: center;
+  background-image: linear-gradient(to bottom, #ffffff, #bab8c2, #787789, #3c3b54, #020024);
 }

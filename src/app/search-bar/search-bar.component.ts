@@ -12,4 +12,11 @@ export class SearchBarComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  cleanSearchBox(){
+    console.log("clear called")
+  }
+  search(){
+    console.log("search called")
+  }
+
 }
