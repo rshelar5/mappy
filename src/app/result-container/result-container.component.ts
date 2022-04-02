@@ -17,6 +17,12 @@ export class ResultContainerComponent implements OnInit {
       this.searchOptions = value;
       console.log(this.searchOptions)
     })
+
+    this.searchSupportService.searchCleared.subscribe(cleared=>{
+      if(cleared){
+        this.searchOptions = '';
+      }
+    })
   }
 
   ngOnInit(): void {}

@@ -11,6 +11,8 @@ export class SearchSupportService {
   }
   searchKey:Subject<String> = new Subject<String>()
 
+  searchCleared:Subject<boolean> = new Subject<boolean>()
+
 
 
 }

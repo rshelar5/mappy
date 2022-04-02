@@ -1,5 +1,3 @@
-import { MappyState, initialState } from './reducers/index';
-
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 

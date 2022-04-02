@@ -22,10 +22,15 @@ export class SearchBarComponent implements OnInit {
   }
 
   cleanSearchBox(){
-    this.searchKey = '';
+    this.searchKey= '';
+    this.searchSupportService.searchCleared.next(true);
+
   }
   search(searchButton:string){
-    this.searchSupportService.searchKey.next(searchButton + ' '+ this.searchKey)
+    if( this.searchKey!== '' && this.searchKey.length > 3)
+    {
+      this.searchSupportService.searchKey.next(searchButton + ' '+ this.searchKey)
+    }
   }
 
 }
