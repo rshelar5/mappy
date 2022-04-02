@@ -1,4 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit, ViewChild } from '@angular/core';
+import { Subject } from 'rxjs';
+import { SearchSupportService } from '../services/search-support.services';
 
 @Component({
   selector: 'app-search-bar',
@@ -7,18 +9,23 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SearchBarComponent implements OnInit {
 
-  constructor() { }
+  constructor(private searchSupportService: SearchSupportService) {
 
-  buttonTitles = ["Ingredients","Pure Ing.","Essential Oil"];
+   }
+
+  @Input()
+  searchButtons: string[] = [];
+
+  searchKey = '';
 
   ngOnInit(): void {
   }
 
   cleanSearchBox(){
-    console.log("clear called")
+    this.searchKey = '';
   }
-  search(){
-    console.log("search called")
+  search(searchButton:string){
+    this.searchSupportService.searchKey.next(searchButton + ' '+ this.searchKey)
   }
 
 }

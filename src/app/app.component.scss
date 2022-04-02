@@ -6,5 +6,12 @@
   display: flex;
   flex-direction: column;
   align-content: center;
-  background-image: linear-gradient(to bottom, #ffffff, #bab8c2, #787789, #3c3b54, #020024);
+  background: #1E2222;
+}
+
+* {
+  font-style: normal;
+  font-size: 16px;
+  font-family: "Amazon Ember Display";
+  color: white;
 }

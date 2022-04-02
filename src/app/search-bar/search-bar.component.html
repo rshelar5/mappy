@@ -1,11 +1,11 @@
 <div class="search-bar-container">
 <div class="button-container">
-  <button class="search-button" *ngFor="let buttonTitle of buttonTitles" mat-flat-button >{{buttonTitle}}</button>
+  <button class="search-button" (click)="search(buttonTitle)" *ngFor="let buttonTitle of searchButtons" mat-flat-button >{{buttonTitle}}</button>
 </div>
 <mat-form-field class="search-field" style="padding: 10px; color: white;">
   <mat-label>Search</mat-label>
-  <mat-icon matPrefix (click)="search()">search</mat-icon>
-  <input type="text" matInput placeholder="Search" style="color: white; padding: 5px;">
+  <mat-icon matPrefix>search</mat-icon>
+  <input type="text" [(ngModel)]="searchKey"  matInput placeholder="Search" style="color: white; padding: 5px;">
   <mat-icon matSuffix (click)="cleanSearchBox()">close</mat-icon>
 </mat-form-field>
 
