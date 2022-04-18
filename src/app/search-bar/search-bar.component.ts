@@ -27,10 +27,15 @@ export class SearchBarComponent implements OnInit {
 
   }
   search(searchButton:string){
-    if( this.searchKey!== '' && this.searchKey.length > 3)
+    if( this.searchKey!== '' && this.searchKey.length > 2)
     {
+      switch(searchButton){
+        case "Ingredients":
+          this.searchSupportService.getHazmatClassification(this.searchKey);
+      }
       this.searchSupportService.searchKey.next(searchButton + ' '+ this.searchKey)
     }
+
   }
 
 }
