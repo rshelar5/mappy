@@ -7,12 +7,17 @@ import { Product } from '../interfaces/Product';
   providedIn: 'root'
 })
 export class SearchSupportService {
+
+  host = "http://localhost:8080/";
   getHazmatClassification(searchKey: string) {
 
-    this.http.get<Product>(`http://localhost:8080/hazmatClassification/${searchKey}`).subscribe(val=>{
-      this.searchKey.next(val.hazmatClassification);
+    this.http.get<Product[]>(`${this.host}hazmatClassification/${searchKey}`)
+      .subscribe(products=>{
+        this.products.next(products);
     })
   }
+
+  products:Subject<Product[]> = new Subject<Product[]>();
 
   constructor(private http: HttpClient){
 

@@ -1,3 +1,4 @@
+import { Product } from './../interfaces/Product';
 import { Component, Input, OnInit } from '@angular/core';
 import { Subject } from 'rxjs';
 import { SearchSupportService } from '../services/search-support.services';
@@ -11,11 +12,15 @@ export class ResultContainerComponent implements OnInit {
 
 
   searchOptions:String = '';
+  products:Product[] = [];
 
   constructor(private searchSupportService: SearchSupportService) {
     this.searchSupportService.searchKey.subscribe(value=>{
       this.searchOptions = value;
       console.log(this.searchOptions)
+    })
+    this.searchSupportService.products.subscribe(products=>{
+      this.products = products;
     })
 
     this.searchSupportService.searchCleared.subscribe(cleared=>{
