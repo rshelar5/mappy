@@ -1,6 +1,6 @@
 <div *ngIf="searchOptions !== '' ">
-  Search Params : {{searchOptions}}
+{{searchOptions}}
 </div>
-<div *ngFor=" let product of products">
+<div *ngFor=" let product of products" class="hazmat-item" [ngClass]="product.hazmatClassification==='HAZMAT'? 'red-font': 'green-font'">
   {{product.properShippingName}} : {{product.hazmatClassification}}
 </div>

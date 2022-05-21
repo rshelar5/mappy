@@ -24,6 +24,7 @@ export class SearchBarComponent implements OnInit {
   cleanSearchBox(){
     this.searchKey= '';
     this.searchSupportService.searchCleared.next(true);
+    this.searchSupportService.products.next([]);
 
   }
   search(searchButton:string){
