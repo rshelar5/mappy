@@ -2,7 +2,7 @@ export interface Product{
   properShippingName: string,
   hazmatClassification?: string,
   hazmatCategory?: string,
-  hazmatClass?: string,
+  classification?: string,
   casnumber?: string,
   packingGroup?: string,
   unid?: string,

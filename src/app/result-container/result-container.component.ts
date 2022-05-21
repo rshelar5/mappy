@@ -13,7 +13,7 @@ export class ResultContainerComponent implements OnInit {
 
   searchOptions:String = '';
   products:Product[] = [];
-
+  searchButton:String = '';
   constructor(private searchSupportService: SearchSupportService) {
     this.searchSupportService.searchKey.subscribe(value=>{
       this.searchOptions = value;
@@ -21,6 +21,9 @@ export class ResultContainerComponent implements OnInit {
     })
     this.searchSupportService.products.subscribe(products=>{
       this.products = products;
+    })
+    this.searchSupportService.searchButton.subscribe(searchButton=>{
+      this.searchButton = searchButton;
     })
 
     this.searchSupportService.searchCleared.subscribe(cleared=>{

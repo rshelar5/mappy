@@ -30,9 +30,16 @@ export class SearchBarComponent implements OnInit {
   search(searchButton:string){
     if( this.searchKey!== '' && this.searchKey.length > 2)
     {
+      this.searchSupportService.searchButton.next(searchButton);
+
       switch(searchButton){
         case "Ingredients":
           this.searchSupportService.getHazmatClassification(this.searchKey);
+          break;
+        case "Essential Oil":
+          this.searchSupportService.getHazmatClassification(this.searchKey);
+          break;
+
       }
       this.searchSupportService.searchKey.next(searchButton + ' '+ this.searchKey)
     }

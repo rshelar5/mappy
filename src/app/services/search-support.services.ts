@@ -22,9 +22,11 @@ export class SearchSupportService {
   constructor(private http: HttpClient){
 
   }
-  searchKey:Subject<String> = new Subject<String>()
+  searchKey:Subject<String> = new Subject<String>();
 
-  searchCleared:Subject<boolean> = new Subject<boolean>()
+  searchButton:Subject<String> = new Subject<String>();
+
+  searchCleared:Subject<boolean> = new Subject<boolean>();
 
 
 

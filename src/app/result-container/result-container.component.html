@@ -1,6 +1,13 @@
 <div *ngIf="searchOptions !== '' ">
 {{searchOptions}}
 </div>
-<div *ngFor=" let product of products" class="hazmat-item" [ngClass]="product.hazmatClassification==='HAZMAT'? 'red-font': 'green-font'">
-  {{product.properShippingName}} : {{product.hazmatClassification}}
+<div *ngIf="searchButton === 'Ingredients'">
+  <div  *ngFor=" let product of products" class="product" [ngClass]="product.hazmatClassification==='HAZMAT'? 'red-font': 'green-font'">
+    {{product.properShippingName}} : {{product.hazmatClassification}}
+  </div>
+</div>
+<div *ngIf="searchButton === 'Essential Oil'">
+<div *ngFor=" let product of products" class="product" >
+  {{product.properShippingName}} : {{product.classification !== '' ? product.classification : "No Data"}}
+</div>
 </div>
