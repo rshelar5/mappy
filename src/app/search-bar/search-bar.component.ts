@@ -39,6 +39,9 @@ export class SearchBarComponent implements OnInit {
         case "Essential Oil":
           this.searchSupportService.getHazmatClassification(this.searchKey);
           break;
+        case "Pure Ing.":
+          this.searchSupportService.getPureIngredients(this.searchKey);
+          break;
 
       }
       this.searchSupportService.searchKey.next(searchButton + ' '+ this.searchKey)
