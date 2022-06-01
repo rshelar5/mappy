@@ -13,7 +13,13 @@
   </div>
 </div>
 <div *ngIf="searchButton === 'Pure Ing.'">
-  <div *ngFor="let pe of pureIngredient" class="product">
-    {{ pe.properShippingName }} : {{pe.casnumber}}
+  <div *ngFor="let pe of pureIngredient" class="pe-element">
+    <div>PSN : {{ pe.properShippingName }}</div>
+    <div>CAS : {{ pe.casnumber }}</div>
+    <div>LEHS : {{ pe.lehs }}</div>
+    <div>UNID : {{ pe.unid }}</div>
+    <div>Hazmat Category: {{ pe.hazmatCategory }}</div>
+    <div>Hazmat Class : {{ pe.hazmatClass }}</div>
+    <div>Packing Group : {{ pe.packingGroup }}</div>
   </div>
 </div>

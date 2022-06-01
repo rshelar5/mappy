@@ -25,7 +25,7 @@ export class SearchBarComponent implements OnInit {
     this.searchKey= '';
     this.searchSupportService.searchCleared.next(true);
     this.searchSupportService.products.next([]);
-
+    this.searchSupportService.pureIngredient.next([]);
   }
   search(searchButton:string){
     if( this.searchKey!== '' && this.searchKey.length > 2)
