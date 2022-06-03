@@ -12,6 +12,17 @@
     {{ product.properShippingName }} : {{ product.hazmatClassification }}
   </div>
 </div>
+
+<div *ngIf="searchButton === 'Essential Oil'">
+  <div
+    *ngFor="let product of products"
+    class="product"
+  >
+    {{ product.properShippingName }} : {{ product.classification }}
+  </div>
+</div>
+
+
 <div *ngIf="searchButton === 'Pure Ing.'">
   <div *ngFor="let pe of pureIngredient" class="pe-element">
     <div>PSN : {{ pe.properShippingName }}</div>
