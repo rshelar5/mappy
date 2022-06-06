@@ -6,7 +6,7 @@
     *ngFor="let product of products"
     class="product"
     [ngClass]="
-      product.hazmatClassification === 'HAZMAT' ? 'red-font' : 'green-font'
+      product.hazmatClassification === 'NON-HAZMAT' ? 'green-font' : 'red-font'
     "
   >
     {{ product.properShippingName }} : {{ product.hazmatClassification }}
@@ -18,7 +18,7 @@
     *ngFor="let product of products"
     class="product"
   >
-    {{ product.properShippingName }} : {{ product.classification }}
+    {{ product.properShippingName }} : {{ product.classification === "" || product.classification === null ? "NULL":product.classification }}
   </div>
 </div>
 
