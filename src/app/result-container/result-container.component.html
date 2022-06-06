@@ -9,7 +9,15 @@
       product.hazmatClassification === 'NON-HAZMAT' ? 'green-font' : 'red-font'
     "
   >
-    {{ product.properShippingName }} : {{ product.hazmatClassification }}
+    {{ product.properShippingName }} :
+    <ng-container *ngIf="product.hazmatClassification === 'NOT FOUND'; else elseTemplate">
+      Not Found - <button (click)="goToLink('https://www.google.com/search?q='+product.properShippingName + ' hazmat classification')">Google search</button>
+    </ng-container>
+    <ng-template #elseTemplate>
+      {{ product.hazmatClassification }}
+    </ng-template>
+
+
   </div>
 </div>
 
