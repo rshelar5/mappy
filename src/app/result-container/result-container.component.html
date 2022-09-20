@@ -10,26 +10,38 @@
     "
   >
     {{ product.properShippingName }} :
-    <ng-container *ngIf="product.hazmatClassification === 'NOT FOUND'; else elseTemplate">
-      Not Found - <button (click)="goToLink('https://www.google.com/search?q='+product.properShippingName + ' hazmat classification')">Google search</button>
+    <ng-container
+      *ngIf="product.hazmatClassification === 'NOT FOUND'; else elseTemplate"
+    >
+      Not Found -
+      <button
+        (click)="
+          goToLink(
+            'https://www.google.com/search?q=' +
+              product.properShippingName +
+              ' cas number'
+          )
+        "
+      >
+        Google search
+      </button>
     </ng-container>
     <ng-template #elseTemplate>
       {{ product.hazmatClassification }}
     </ng-template>
-
-
   </div>
 </div>
 
 <div *ngIf="searchButton === 'Essential Oil'">
-  <div
-    *ngFor="let product of products"
-    class="product"
-  >
-    {{ product.properShippingName }} : {{ product.classification === "" || product.classification === null ? "NULL":product.classification }}
+  <div *ngFor="let product of products" class="product">
+    {{ product.properShippingName }} :
+    {{
+      product.classification === "" || product.classification === null
+        ? "NULL"
+        : product.classification
+    }}
   </div>
 </div>
-
 
 <div *ngIf="searchButton === 'Pure Ing.'">
   <div *ngFor="let pe of pureIngredient" class="pe-element">
@@ -38,7 +50,7 @@
     <div>LEHS : {{ pe.lehs }}</div>
     <div>UNID : {{ pe.unid }}</div>
     <div>Hazmat Category: {{ pe.hazmatCategory }}</div>
-    <div>Hazmat Class : {{ pe.hazmatClass }}</div>
-    <div>Packing Group : {{ pe.packingGroup }}</div>
+    <div>Hazard Class : {{ pe.hazardClass }}</div>
+    <div>Packaging Group : {{ pe.packagingGroup }}</div>
   </div>
 </div>
